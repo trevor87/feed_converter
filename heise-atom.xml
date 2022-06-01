@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title type="text">heise online News</title><subtitle type="html"><![CDATA[Nachrichten nicht nur aus der Welt der Computer]]></subtitle>
+    <updated>2026-11-14T09:00:00+01:00</updated>
+    <id>https://www.heise.de/rss/heise-atom.xml</id>
+    <author>
+        <name>heise online</name><uri>https://www.heise.de</uri>
+    </author>
+    
+    <link rel="self" type="application/atom+xml" href="https://www.heise.de/rss/heise-atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.heise.de/"/>
+    <rights>Copyright (c) 2026 Heise Medien</rights>
+    
+    <entry>
+        <title type="html"><![CDATA[Polarlicht bis Porträt: Licht und Himmel in den Bildern der Woche 46]]></title>
+        <id>http://heise.de/-11522926</id>
+        <updated>2026-11-14T09:00:00+01:00</updated>
+        <published>2026-11-14T09:00:00+01:00</published>
+        <link href="https://www.heise.de/news/Polarlicht-bis-Portraet-Licht-und-Himmel-in-den-Bildern-der-Woche-46-11522926.html?seite=all"/>
+        <author>
+            <name> Hendrik Vatheuer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Dramatische Himmel, stille Momente und starke Kontraste: Sieben Aufnahmen zwischen Naturschauspiel und präziser Beobachtung.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Polarlicht-bis-Portraet-Licht-und-Himmel-in-den-Bildern-der-Woche-46-11522926.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/4/8/6/0711_Die-Saison-ist-im-vollen-Gange-25b019e84543fb8f.jpeg" class="webfeedsFeaturedVisual" alt="Polarlichter" /></a></p><p>Dramatische Himmel, stille Momente und starke Kontraste: Sieben Aufnahmen zwischen Naturschauspiel und präziser Beobachtung.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Developer-Häppchen: Kiro schickt Bots los, Rider durchleuchtet Godot-Szenen]]></title>
+        <id>http://heise.de/-11523808</id>
+        <updated>2026-11-14T08:17:00+01:00</updated>
+        <published>2026-11-14T08:17:00+01:00</published>
+        <link href="https://www.heise.de/news/Developer-Haeppchen-Kiro-schickt-Bots-los-Rider-durchleuchtet-Godot-Szenen-11523808.html?seite=all"/>
+        <author>
+            <name>Maika Möbus</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Apache Storm, Lima, PhpStorm, AWS Kiro, ReSharper, Laravel, Node.js, Spring AI und Rider.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Developer-Haeppchen-Kiro-schickt-Bots-los-Rider-durchleuchtet-Godot-Szenen-11523808.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/9/3/1/shutterstock_1308890458-62e2324ee1b8ebf8.jpeg" class="webfeedsFeaturedVisual" alt="Verschiedene mexikanische Speisen und Zutaten auf einem Tisch" /></a></p><p>Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Apache Storm, Lima, PhpStorm, AWS Kiro, ReSharper, Laravel, Node.js, Spring AI und Rider.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[AWS Emulator im Detail: Die ganze Cloud auf dem eigenen Rechner?]]></title>
+        <id>http://heise.de/-11524450</id>
+        <updated>2026-11-14T07:32:00+01:00</updated>
+        <published>2026-11-14T07:32:00+01:00</published>
+        <link href="https://www.heise.de/news/AWS-Emulator-im-Detail-Die-ganze-Cloud-auf-dem-eigenen-Rechner-11524450.html?seite=all"/>
+        <author>
+            <name>Kornelius Kindermann</name>
+        </author>
+        
+        <summary type="html"><![CDATA[AWS-Anwendungen ohne Cloud-Konto und Gebühren lokal testen: Wie der neue, kontroverse AWS Emulator unter der Haube funktioniert und was er leistet.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/AWS-Emulator-im-Detail-Die-ganze-Cloud-auf-dem-eigenen-Rechner-11524450.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/2/5/8/ixplore-aws2-dabf8f0e6fda095f.png" class="webfeedsFeaturedVisual" alt="AWS-Schriftzug mit Overlay &quot;ix-plore&quot;" /></a></p><p>AWS-Anwendungen ohne Cloud-Konto und Gebühren lokal testen: Wie der neue, kontroverse AWS Emulator unter der Haube funktioniert und was er leistet.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Blende zu, KI an – wohin entwickelt sich die Smartphone-Fotografie? | c’t uplink]]></title>
+        <id>http://heise.de/-11524072</id>
+        <updated>2026-11-14T06:30:00+01:00</updated>
+        <published>2026-11-14T06:30:00+01:00</published>
+        <link href="https://www.heise.de/news/Blende-zu-KI-an-wohin-entwickelt-sich-die-Smartphone-Fotografie-c-t-uplink-11524072.html?seite=all"/>
+        <author>
+            <name> Hendrik Vatheuer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ob variable Blende, Telekonverter oder KI: Smartphone-Kameras rüsten sowohl bei Hard- als auch Software auf. Doch was bringt die Fotografie wirklich voran?
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Blende-zu-KI-an-wohin-entwickelt-sich-die-Smartphone-Fotografie-c-t-uplink-11524072.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/0/6/5/uplink_KIinFotos-fb9cd48faa111830.jpeg" class="webfeedsFeaturedVisual" alt="Aufmacherbild c&#39;t uplink zeigt Redakteur mit externen Datenträgern in der Hand" /></a></p><p>Ob variable Blende, Telekonverter oder KI: Smartphone-Kameras rüsten sowohl bei Hard- als auch Software auf. Doch was bringt die Fotografie wirklich voran?
+</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[USA: Alle Flughäfen stundenlang gesperrt]]></title>
+        <id>http://heise.de/-11525181</id>
+        <updated>2026-11-13T23:05:00+01:00</updated>
+        <published>2026-11-13T23:05:00+01:00</published>
+        <link href="https://www.heise.de/news/USA-Alle-Flughaefen-gesperrt-11525181.html?seite=all"/>
+        <author>
+            <name>Daniel AJ Sokolov</name>
+        </author>
+        
+        <summary type="html"><![CDATA[In den USA mussten am Freitag alle Luftfahrzeuge mehr als vier Stunden auf dem Boden bleiben. Grund waren technische Probleme der Flugsicherung.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/USA-Alle-Flughaefen-gesperrt-11525181.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/6/2/5/Stop-ddee835ac7742256.png" class="webfeedsFeaturedVisual" alt="3 Stop-Tafeln nebeneinander" /></a></p><p>In den USA mussten am Freitag alle Luftfahrzeuge mehr als vier Stunden auf dem Boden bleiben. Grund waren technische Probleme der Flugsicherung.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Bloß keine Schokolade: Der beste Adventskalender 2026 für Schlaumeier & Co.]]></title>
+        <id>http://heise.de/-11524682</id>
+        <updated>2026-11-13T20:00:00+01:00</updated>
+        <published>2026-11-13T20:00:00+01:00</published>
+        <link href="https://www.heise.de/bestenlisten/testsieger/bloss-keine-schokolade-der-beste-adventskalender-2026-fuer-schlaumeier-und-co/30ewgv3?seite=all"/>
+        <summary type="html"><![CDATA[Adventskalender können mehr als nur Schokolade: Sie laden zum Werkeln, Rätseln, Experimentieren und Spielen ein. Wir zeigen unsere Top-5-Adventskalender 2026.]]></summary>
+        <content type="html"><![CDATA[<p>Adventskalender können mehr als nur Schokolade: Sie laden zum Werkeln, Rätseln, Experimentieren und Spielen ein. Wir zeigen unsere Top-5-Adventskalender 2026.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[DSGVO: Tinder muss Millionen-Bußgeld zahlen]]></title>
+        <id>http://heise.de/-11525093</id>
+        <updated>2026-11-13T18:42:00+01:00</updated>
+        <published>2026-11-13T18:42:00+01:00</published>
+        <link href="https://www.heise.de/news/DSGVO-Tinder-muss-Millionen-Bussgeld-zahlen-11525093.html?seite=all"/>
+        <author>
+            <name>Falk Steiner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die irische Data Protection Commission hat gegen die europäische Tochter der Match Group ein Bußgeld wegen eines DSGVO-Verstoßes verhängt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/DSGVO-Tinder-muss-Millionen-Bussgeld-zahlen-11525093.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/5/8/1/shutterstock_751052851-2da91c18a7e1e11b.jpeg" class="webfeedsFeaturedVisual" alt="Eine Person hält ein Smartphone mit einer Dating-App in der Hand." /></a></p><p>Die irische Data Protection Commission hat gegen die europäische Tochter der Match Group ein Bußgeld wegen eines DSGVO-Verstoßes verhängt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Generative KI stiftet Chaos in Brüssel und Straßburg]]></title>
+        <id>http://heise.de/-11525079</id>
+        <updated>2026-11-13T18:21:00+01:00</updated>
+        <published>2026-11-13T18:21:00+01:00</published>
+        <link href="https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html?seite=all"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Chatbots sorgen in Brüssel und Straßburg für eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete schlagen Alarm wegen demokratischer Risiken.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/5/7/4/shutterstock_691193746-5431850c0f8413f3.jpeg" class="webfeedsFeaturedVisual" alt="Stapel von Akten und Papier auf einem Tisch" /></a></p><p>Chatbots sorgen in Brüssel und Straßburg für eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete schlagen Alarm wegen demokratischer Risiken.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Japan: Sony und JR East wollen 40 Bahnhöfe mit UWB-Ticketgates ausstatten]]></title>
+        <id>http://heise.de/-11524971</id>
+        <updated>2026-11-13T17:47:00+01:00</updated>
+        <published>2026-11-13T17:47:00+01:00</published>
+        <link href="https://www.heise.de/news/Japan-Sony-und-JR-East-wollen-40-Bahnhoefe-mit-UWB-Ticketgates-ausstatten-11524971.html?seite=all"/>
+        <author>
+            <name>Andreas Sebayang</name>
+        </author>
+        
+        <summary type="html"><![CDATA[UWB kennt man vor allem von Apples Airtags. Die Präzision im Nahbereich lässt sich aber auch für Tickets nutzen. Das Smartphone kann dann in der Tasche bleiben.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Japan-Sony-und-JR-East-wollen-40-Bahnhoefe-mit-UWB-Ticketgates-ausstatten-11524971.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/5/1/9/shutterstock_2771393631-6e77b55136494afb.jpeg" class="webfeedsFeaturedVisual" alt="Menschen gehen durch die Bahnsperren eines Bahnhofs." /></a></p><p>UWB kennt man vor allem von Apples Airtags. Die Präzision im Nahbereich lässt sich aber auch für Tickets nutzen. Das Smartphone kann dann in der Tasche bleiben.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Apple liefert iPhone Duo offenbar früher als erwartet aus]]></title>
+        <id>http://heise.de/-11524981</id>
+        <updated>2026-11-13T17:41:00+01:00</updated>
+        <published>2026-11-13T17:41:00+01:00</published>
+        <link href="https://www.heise.de/news/Apple-liefert-iPhone-Duo-offenbar-frueher-als-erwartet-aus-11524981.html?seite=all"/>
+        <author>
+            <name>Malte Kirchner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Einige Vorbesteller des iPhone Duo sollen das faltbare iPhone bereits vor Weihnachten statt erst Ende Januar erhalten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Apple-liefert-iPhone-Duo-offenbar-frueher-als-erwartet-aus-11524981.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/5/2/4/Apple-iPhone-Duo-2-3729b02f977d8422-9918c5e4678b9eac.jpeg" class="webfeedsFeaturedVisual" alt="Drei aktuelle Apple-Geräte auf einer hellen Unterlage, links ein geöffnetes iPhone Duo, rechts zwei geschlossene Duos" /></a></p><p>Einige Vorbesteller des iPhone Duo sollen das faltbare iPhone bereits vor Weihnachten statt erst Ende Januar erhalten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Vorsicht, Umbruch: Word zerschießt bald das Layout alter Dokumente]]></title>
+        <id>http://heise.de/-11524878</id>
+        <updated>2026-11-13T17:35:00+01:00</updated>
+        <published>2026-11-13T17:35:00+01:00</published>
+        <link href="https://www.heise.de/news/Vorsicht-Umbruch-Word-zerschiesst-bald-das-Layout-alter-Dokumente-11524878.html?seite=all"/>
+        <author>
+            <name>Moritz Förster</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Microsoft entfernt einige alte Kompatibilitätseinstellungen in Word. Bei älteren Dokumenten drohen deshalb ab Dezember 2026 Layout-Verschiebungen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Vorsicht-Umbruch-Word-zerschiesst-bald-das-Layout-alter-Dokumente-11524878.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/4/7/2/shutterstock_2288735515-464eb77347a126d2.jpeg" class="webfeedsFeaturedVisual" alt="Icon von Microsoft Word of einem Mac" /></a></p><p>Microsoft entfernt einige alte Kompatibilitätseinstellungen in Word. Bei älteren Dokumenten drohen deshalb ab Dezember 2026 Layout-Verschiebungen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Bit-Rauschen, der Prozessor-Podcast: Nvidia nach dem Rücktritt von Jensen Huang]]></title>
+        <id>http://heise.de/-11524919</id>
+        <updated>2026-11-13T17:15:00+01:00</updated>
+        <published>2026-11-13T17:15:00+01:00</published>
+        <link href="https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Nvidia-nach-dem-Ruecktritt-von-Jensen-Huang-11524919.html?seite=all"/>
+        <author>
+            <name>Christof Windeck</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nach Affären und Spionageverdacht tritt Nvidia-Boss Huang ab. Was wir wissen und wie es weitergehen könnte bei Nvidia: Folge 2026/23 des Podcasts Bit-Rauschen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Nvidia-nach-dem-Ruecktritt-von-Jensen-Huang-11524919.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/4/9/3/Podcast_Bitrauschen_16_9-9bdff0d53ac3c8a7.jpeg" class="webfeedsFeaturedVisual" alt="Logo von Bit-Rauschen - der Prozessor-Podcast von c’t" /></a></p><p>Nach Affären und Spionageverdacht tritt Nvidia-Boss Huang ab. Was wir wissen und wie es weitergehen könnte bei Nvidia: Folge 2026/23 des Podcasts Bit-Rauschen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Neue PC-Spiele im Dezember 2026: „Warhammer 40,000: Dawn of War IV“]]></title>
+        <id>http://heise.de/-11524600</id>
+        <updated>2026-11-13T17:12:00+01:00</updated>
+        <published>2026-11-13T17:12:00+01:00</published>
+        <link href="https://www.heise.de/news/Neue-PC-Spiele-im-Dezember-2026-Warhammer-40-000-Dawn-of-War-IV-11524600.html?seite=all"/>
+        <author>
+            <name>Sebastian Minnich</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Im Dezember werden unter anderem „Warhammer 40,000: Dawn of War IV“ und „Thief: The Dark Project Remastered“ veröffentlicht.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Neue-PC-Spiele-im-Dezember-2026-Warhammer-40-000-Dawn-of-War-IV-11524600.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/3/3/3/01_-_Warhammer_40000_Dawn_of_War_IV_-_Key_Art-9f65008463fe7d95.jpeg" class="webfeedsFeaturedVisual" alt="Figuren und Waffen aus einem Videospiel auf einem Planeten" /></a></p><p>Im Dezember werden unter anderem „Warhammer 40,000: Dawn of War IV“ und „Thief: The Dark Project Remastered“ veröffentlicht.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Lizenz zum Einbruch: Bundestag winkt umkämpfte Geheimdienstreform durch]]></title>
+        <id>http://heise.de/-11524886</id>
+        <updated>2026-11-13T16:33:00+01:00</updated>
+        <published>2026-11-13T16:33:00+01:00</published>
+        <link href="https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html?seite=all"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Trotz Warnungen vor Grundrechtsbrüchen erhalten BND und Verfassungsschutz weitreichende Befugnisse für Wohnungseinbrüche, KI-Überwachung und Datenmanipulation.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/4/7/6/shutterstock_2742038295-999770d0441e1b12.jpeg" class="webfeedsFeaturedVisual" alt="Hand greift nach einem Türgriff, darunter steckt ein Schlüssel im Schloss" /></a></p><p>Trotz Warnungen vor Grundrechtsbrüchen erhalten BND und Verfassungsschutz weitreichende Befugnisse für Wohnungseinbrüche, KI-Überwachung und Datenmanipulation.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Gestohlene Token: Secret-Stealer in Tausenden GitHub-Repositories]]></title>
+        <id>http://heise.de/-11524706</id>
+        <updated>2026-11-13T16:30:00+01:00</updated>
+        <published>2026-11-13T16:30:00+01:00</published>
+        <link href="https://www.heise.de/news/Gestohlene-Token-Secret-Stealer-in-Tausenden-GitHub-Repositories-11524706.html?seite=all"/>
+        <author>
+            <name>Robert Lippert</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Über gekaperte GitHub-Konten richten Angreifer Hintertüren bei AWS und Azure ein. Secrets auszutauschen reicht deshalb nicht.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Gestohlene-Token-Secret-Stealer-in-Tausenden-GitHub-Repositories-11524706.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/3/8/6/shutterstock_1569354004-8931fa75d91a910d.jpeg" class="webfeedsFeaturedVisual" alt="Github-Logo an Gebäudewand" /></a></p><p>Über gekaperte GitHub-Konten richten Angreifer Hintertüren bei AWS und Azure ein. Secrets auszutauschen reicht deshalb nicht.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Siri AI: Dann kommt Apples KI-System auf ältere Apple-TV-4K-Geräte]]></title>
+        <id>http://heise.de/-11524528</id>
+        <updated>2026-11-13T16:24:00+01:00</updated>
+        <published>2026-11-13T16:24:00+01:00</published>
+        <link href="https://www.heise.de/news/Siri-AI-Dann-kommt-Apples-KI-System-auf-aeltere-Apple-TV-4K-Geraete-11524528.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Apple hat Details genannt, wann sein verbessertes KI-System auf die Multimediaboxen früherer Bauart kommt. Ein Problem bleibt allerdings die EU-Thematik.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Siri-AI-Dann-kommt-Apples-KI-System-auf-aeltere-Apple-TV-4K-Geraete-11524528.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/2/9/7/apple-tv-4k-2021-a4cf4a4837584e57.jpeg" class="webfeedsFeaturedVisual" alt="Apple TV 4K von 2021" /></a></p><p>Apple hat Details genannt, wann sein verbessertes KI-System auf die Multimediaboxen früherer Bauart kommt. Ein Problem bleibt allerdings die EU-Thematik.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | Bit-Rauschen: Nvidia-Chef tritt ab, KI-Aktien fahren Achterbahn]]></title>
+        <id>http://heise.de/-11420684</id>
+        <updated>2026-11-13T16:15:00+01:00</updated>
+        <published>2026-11-13T16:15:00+01:00</published>
+        <link href="https://www.heise.de/hintergrund/Bit-Rauschen-Nvidia-Chef-tritt-ab-KI-Aktien-fahren-Achterbahn-11420684.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Christof Windeck</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nvidia-Boss Jensen Huang traf heimlich eine Frau, die der Spionage verdächtigt wird und die Midterm-Wahlen in den USA versetzen KI-Aktien einen Dämpfer.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Bit-Rauschen-Nvidia-Chef-tritt-ab-KI-Aktien-fahren-Achterbahn-11420684.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/5/0/5/5/7/Aufmacher-Prozessorkolumne_Bitrauschen-c8eae93a187617c9.jpeg" class="webfeedsFeaturedVisual" alt="Aufmacher Kolumne Bit-Rauschen" /></a></p><p>Nvidia-Boss Jensen Huang traf heimlich eine Frau, die der Spionage verdächtigt wird und die Midterm-Wahlen in den USA versetzen KI-Aktien einen Dämpfer.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Home Assistant mit KI: Gruselig und gut]]></title>
+        <id>http://heise.de/-11524108</id>
+        <updated>2026-11-13T16:02:00+01:00</updated>
+        <published>2026-11-13T16:02:00+01:00</published>
+        <link href="https://www.heise.de/news/Home-Assistant-mit-KI-Gruselig-und-gut-11524108.html?seite=all"/>
+        <author>
+            <name>Lukas Rumpler</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ist es eine gute Idee, einem LLM Admin-Rechte auf die eigene Wohnung zu geben? Wir haben es mit Home Assistant und HA-MCP ausprobiert.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Home-Assistant-mit-KI-Gruselig-und-gut-11524108.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/0/8/4/3003_KI_HA_v3-c5eb7450a2dfdc96.jpeg" class="webfeedsFeaturedVisual" alt="Ein Mann hält Symbole in den Händen, im Hintergrund Logos und ein Waschgerät" /></a></p><p>Ist es eine gute Idee, einem LLM Admin-Rechte auf die eigene Wohnung zu geben? Wir haben es mit Home Assistant und HA-MCP ausprobiert.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[WiiM Bar im Test: Viel Ausstattung und klare Stimmen für 499 Euro]]></title>
+        <id>http://heise.de/-11524809</id>
+        <updated>2026-11-13T16:00:00+01:00</updated>
+        <published>2026-11-13T16:00:00+01:00</published>
+        <link href="https://www.heise.de/bestenlisten/testbericht/wiim-bar-im-test-viel-ausstattung-und-klare-stimmen-fuer-499-euro/8dtfsc8?seite=all"/>
+        <summary type="html"><![CDATA[Die WiiM Bar kombiniert Dolby Atmos, DTS:X, einen Touchscreen und umfangreiche Streamingfunktionen. Doch überzeugt auch der Heimkinoklang?]]></summary>
+        <content type="html"><![CDATA[<p>Die WiiM Bar kombiniert Dolby Atmos, DTS:X, einen Touchscreen und umfangreiche Streamingfunktionen. Doch überzeugt auch der Heimkinoklang?</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[KI-App Gemini fährt nun im CarPlay-Auto mit]]></title>
+        <id>http://heise.de/-11522718</id>
+        <updated>2026-11-13T15:22:00+01:00</updated>
+        <published>2026-11-13T15:22:00+01:00</published>
+        <link href="https://www.heise.de/news/Google-KI-Gemini-kommt-in-CarPlay-Autos-11522718.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Bereits jetzt ist es möglich, Googles KI-System über die Maps-App im CarPlay-Fahrzeug aufzurufen. Nun wurde auch die Gemini-App selbst angepasst.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Google-KI-Gemini-kommt-in-CarPlay-Autos-11522718.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/3/8/0/Screenshot_2026-11-12_at_13.58.21_ausschnitt-120600c8c8d04732.png" class="webfeedsFeaturedVisual" alt="Gemini in CarPlay" /></a></p><p>Bereits jetzt ist es möglich, Googles KI-System über die Maps-App im CarPlay-Fahrzeug aufzurufen. Nun wurde auch die Gemini-App selbst angepasst.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Algorithmische Wutwende & Memokratie: Wie Memes Politik zur Gefühlssache machen]]></title>
+        <id>http://heise.de/-11524568</id>
+        <updated>2026-11-13T15:19:00+01:00</updated>
+        <published>2026-11-13T15:19:00+01:00</published>
+        <link href="https://www.heise.de/news/Algorithmische-Wutwende-Memokratie-Wie-Memes-Politik-zur-Gefuehlssache-machen-11524568.html?seite=all"/>
+        <author>
+            <name>Marie-Claire Koch</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Politische Macht wird heute nicht mehr nur über Programme und Debatten ausgeübt, sondern immer stärker über Memes und KI-generierte Bilder.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Algorithmische-Wutwende-Memokratie-Wie-Memes-Politik-zur-Gefuehlssache-machen-11524568.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/3/1/7/Blume_Keber_Ullrich-e329f1c86060d115.jpeg" class="webfeedsFeaturedVisual" alt="Michael Blume, Tobias Keber und Wolfgang Ullrich auf einem Podium bei einer Diskussion" /></a></p><p>Politische Macht wird heute nicht mehr nur über Programme und Debatten ausgeübt, sondern immer stärker über Memes und KI-generierte Bilder.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Ceph in Rust: Neuer Code, alter Cluster]]></title>
+        <id>http://heise.de/-11524238</id>
+        <updated>2026-11-13T15:03:00+01:00</updated>
+        <published>2026-11-13T15:03:00+01:00</published>
+        <link href="https://www.heise.de/news/Ceph-in-Rust-Neuer-Code-alter-Cluster-11524238.html?seite=all"/>
+        <author>
+            <name>Moritz Förster</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ceph schrittweise auf Rust umstellen: Croits neuer NVMe-OSD läuft neben klassischen OSDs. Die Komponenten stehen jetzt als Preview bereit.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Ceph-in-Rust-Neuer-Code-alter-Cluster-11524238.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/1/5/0/ceph-logo-66f5ea09a6177c6a.png" class="webfeedsFeaturedVisual" alt="Logo mit einem roten grafischen Symbol und dem Schriftzug ceph" /></a></p><p>Ceph schrittweise auf Rust umstellen: Croits neuer NVMe-OSD läuft neben klassischen OSDs. Die Komponenten stehen jetzt als Preview bereit.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[KI-Update kompakt: Wirbel um Nvidia, Grundrechte, Gemini 4 Hydrogen, Roboter]]></title>
+        <id>http://heise.de/-11522165</id>
+        <updated>2026-11-13T15:00:00+01:00</updated>
+        <published>2026-11-13T15:00:00+01:00</published>
+        <link href="https://www.heise.de/news/KI-Update-kompakt-Wirbel-um-Nvidia-Grundrechte-Gemini-4-Hydrogen-Roboter-11522165.html?seite=all"/>
+        <author>
+            <name>Isabel Grünewald</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-Update-kompakt-Wirbel-um-Nvidia-Grundrechte-Gemini-4-Hydrogen-Roboter-11522165.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/0/9/7/heise_Podcasts_KIUpdate_ho_16_9-e43012251deae576.jpeg" class="webfeedsFeaturedVisual" alt="Logo mit den Buchstaben KI, dem Schriftzug Update und heise online" /></a></p><p>Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[c't-Podcast: „Zentrale Kryptobörsen wie Binance sind attraktive Angriffsziele“]]></title>
+        <id>http://heise.de/-11524576</id>
+        <updated>2026-11-13T14:51:00+01:00</updated>
+        <published>2026-11-13T14:51:00+01:00</published>
+        <link href="https://www.heise.de/news/c-t-Podcast-Zentrale-Kryptoboersen-wie-Binance-sind-attraktive-Angriffsziele-11524576.html?seite=all"/>
+        <author>
+            <name>Eva Wolfangel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Ursache des Binance-Hack liegt nicht in der Technik, sondern darin, dass viele Nutzer das Versprechen der Kryptowelt gar nicht in Anspruch nehmen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/c-t-Podcast-Zentrale-Kryptoboersen-wie-Binance-sind-attraktive-Angriffsziele-11524576.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/3/2/1/Podcast_TTT_16_9_V2-cbd21e3e42e9b641-ac738b2b61be5b1a.jpeg" class="webfeedsFeaturedVisual" alt="Podcast-Cover von They Talk Tech mit Eckert und Wolfangel" /></a></p><p>Die Ursache des Binance-Hack liegt nicht in der Technik, sondern darin, dass viele Nutzer das Versprechen der Kryptowelt gar nicht in Anspruch nehmen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Operation Endgame: Weltweiter Schlag gegen Cybercrime]]></title>
+        <id>http://heise.de/-11524460</id>
+        <updated>2026-11-13T14:32:00+01:00</updated>
+        <published>2026-11-13T14:32:00+01:00</published>
+        <link href="https://www.heise.de/news/Operation-Endgame-Weltweiter-Schlag-gegen-Cybercrime-11524460.html?seite=all"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Europol koordiniert in der Operation Endgame Aktionen gegen Malware-Netzwerke. Strafverfolger sicherten nun Millionen Datensätze von Opfern.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Operation-Endgame-Weltweiter-Schlag-gegen-Cybercrime-11524460.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/2/6/3/2026-11-13-Europol-Operation-Endgame-Logo-b603744d9d37fe09.png" class="webfeedsFeaturedVisual" alt="Logo der Operation Endgame von Europol" /></a></p><p>Europol koordiniert in der Operation Endgame Aktionen gegen Malware-Netzwerke. Strafverfolger sicherten nun Millionen Datensätze von Opfern.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[„Empire Earth“: Eine legendäre RTS-Ikone, die keine Fortsetzung zuließ]]></title>
+        <id>http://heise.de/-11524408</id>
+        <updated>2026-11-13T14:21:00+01:00</updated>
+        <published>2026-11-13T14:21:00+01:00</published>
+        <link href="https://www.heise.de/hintergrund/25-Jahre-Empire-Earth-500-000-Jahre-Menschheitsgeschichte-in-einem-Spiel-11524408.html?seite=all"/>
+        <author>
+            <name>Michael Sonntag</name>
+        </author>
+        
+        <summary type="html"><![CDATA[„Empire Earth“ erschien heute vor 25 Jahren. Das RTS-Spiel des AoE-Erfinders veränderte den Markt nicht, hat aber bis heute eine große Fangemeinschaft.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/25-Jahre-Empire-Earth-500-000-Jahre-Menschheitsgeschichte-in-einem-Spiel-11524408.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/2/3/7/ss_737d64ac416517f0ebe2c0a1693266679ccd812d.1920x1080_ausschnitt_gross-de480f4d940e79b5.jpeg" class="webfeedsFeaturedVisual" alt="Screenshot aus der Gold Edition von Empire Earth" /></a></p><p>„Empire Earth“ erschien heute vor 25 Jahren. Das RTS-Spiel des AoE-Erfinders veränderte den Markt nicht, hat aber bis heute eine große Fangemeinschaft.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: Marktwert benennen: Online-Workshop zu Verhandlung in der IT]]></title>
+        <id>http://heise.de/-11416507</id>
+        <updated>2026-11-13T14:00:00+01:00</updated>
+        <published>2026-11-13T14:00:00+01:00</published>
+        <link href="https://www.heise.de/news/Marktwert-benennen-Online-Workshop-zu-Verhandlung-in-der-IT-11416507.html?seite=all"/>
+        <author>
+            <name>Carla Maria Hoppe</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das Impact Lab am 4. Dezember behandelt Verhandlungspsychologie im IT-Kontext, den eigenen Marktwert und den Umgang mit Einwänden.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Marktwert-benennen-Online-Workshop-zu-Verhandlung-in-der-IT-11416507.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/4/8/1/7/1/women_in_tech_impactlabs_banner_ticker-allgemein-1920x1080px_1920x1080-6333b4e60152bdac.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Das Impact Lab am 4. Dezember behandelt Verhandlungspsychologie im IT-Kontext, den eigenen Marktwert und den Umgang mit Einwänden.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Tiefstpreis für Testsieger: E-Scooter Navee UT5 Max mit Kuhfänger nur 777 Euro]]></title>
+        <id>http://heise.de/-11524466</id>
+        <updated>2026-11-13T13:30:00+01:00</updated>
+        <published>2026-11-13T13:30:00+01:00</published>
+        <link href="https://www.heise.de/bestenlisten/deals/tiefstpreis-fuer-den-testsieger-e-scooter-navee-ut5-max-mit-kuhfaenger-nur-777-euro/cryge3w?seite=all"/>
+        <summary type="html"><![CDATA[Unser E-Scooter-Testsieger Navee UT5 Max kostet bei Mediamarkt und Saturn 777 Euro. So günstig war der Elektroroller mit 2400 W noch nie.]]></summary>
+        <content type="html"><![CDATA[<p>Unser E-Scooter-Testsieger Navee UT5 Max kostet bei Mediamarkt und Saturn 777 Euro. So günstig war der Elektroroller mit 2400 W noch nie.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[#TGIQF: „Wing Commander“ – Das Quiz]]></title>
+        <id>http://heise.de/-11523850</id>
+        <updated>2026-11-13T13:24:00+01:00</updated>
+        <published>2026-11-13T13:24:00+01:00</published>
+        <link href="https://www.heise.de/news/TGIQF-Wing-Commander-Das-Quiz-11523850.html?seite=all"/>
+        <author>
+            <name>Markus Will</name>
+        </author>
+        
+        <summary type="html"><![CDATA[EA hat zum 35. Geburtstag von „Wing Commander 2“ gleich mehreren Teilen der Weltraum-Saga eine Überarbeitung spendiert. Wir spendieren ein Quiz. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/TGIQF-Wing-Commander-Das-Quiz-11523850.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/9/5/2/Overlay_TGIQF_61_-3f920b187f3d2c11.png" class="webfeedsFeaturedVisual" alt="Logo des Videospiels Wing Commander mit Schriftzug und Fragezeichen" /></a></p><p>EA hat zum 35. Geburtstag von „Wing Commander 2“ gleich mehreren Teilen der Weltraum-Saga eine Überarbeitung spendiert. Wir spendieren ein Quiz. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Supermarkt-Angriffe: Danfoss-Kühlsteuerungen blieben trotz Updates angreifbar]]></title>
+        <id>http://heise.de/-11524376</id>
+        <updated>2026-11-13T13:04:00+01:00</updated>
+        <published>2026-11-13T13:04:00+01:00</published>
+        <link href="https://www.heise.de/news/Supermarkt-Angriffe-Danfoss-Kuehlsteuerungen-blieben-trotz-Updates-angreifbar-11524376.html?seite=all"/>
+        <author>
+            <name>Falk Steiner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Offenbar enthielten die seit August als angreifbar geltenden Kühlgerätesteuerungen „AK-SM 800A“ des Herstellers Danfoss weitere kritische Sicherheitslücken.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Supermarkt-Angriffe-Danfoss-Kuehlsteuerungen-blieben-trotz-Updates-angreifbar-11524376.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/2/2/1/shutterstock_2796327489-adb60a49158614de.jpeg" class="webfeedsFeaturedVisual" alt="Ein Blick in den Gang eines Supermarktes mit langen verglasten Kühlregale" /></a></p><p>Offenbar enthielten die seit August als angreifbar geltenden Kühlgerätesteuerungen „AK-SM 800A“ des Herstellers Danfoss weitere kritische Sicherheitslücken.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[DHL: Paketpreise für Privatkunden steigen 2027 – vor allem in der Filiale]]></title>
+        <id>http://heise.de/-11524318</id>
+        <updated>2026-11-13T12:54:00+01:00</updated>
+        <published>2026-11-13T12:54:00+01:00</published>
+        <link href="https://www.heise.de/news/DHL-Paketpreise-fuer-Privatkunden-steigen-2027-vor-allem-in-der-Filiale-11524318.html?seite=all"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Deutsche Post erhöht zum 1. Januar 2027 die Paketpreise für Privatkunden. Vor allem in der Filiale wird es teurer, online bleiben viele Preise stabil.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/DHL-Paketpreise-fuer-Privatkunden-steigen-2027-vor-allem-in-der-Filiale-11524318.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/1/9/0/shutterstock_1826367947-be8c8209dbad2344.jpeg" class="webfeedsFeaturedVisual" alt="Eine DHL-Packstation im Freien vor einem Wohnblock." /></a></p><p>Die Deutsche Post erhöht zum 1. Januar 2027 die Paketpreise für Privatkunden. Vor allem in der Filiale wird es teurer, online bleiben viele Preise stabil.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Weltraumteleskop Euclid legt 1,7 Petabyte Himmelsdaten offen auf den Tisch]]></title>
+        <id>http://heise.de/-11524042</id>
+        <updated>2026-11-13T12:35:00+01:00</updated>
+        <published>2026-11-13T12:35:00+01:00</published>
+        <link href="https://www.heise.de/news/Euclid-gibt-Daten-zu-900-Millionen-Galaxien-frei-fuer-die-groesste-3D-Karte-11524042.html?seite=all"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Euclid soll das Universum erforschen und dafür die bislang größte dreidimensionale Karte des Kosmos erstellen. Nun gibt es einen ersten großen Datensatz.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Euclid-gibt-Daten-zu-900-Millionen-Galaxien-frei-fuer-die-groesste-3D-Karte-11524042.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/0/5/0/original-d633531da261e5d5.jpeg" class="webfeedsFeaturedVisual" alt="Tiefenaufnahme des Weltalls mit zahllosen Galaxien und hellen Galaxienhaufen" /></a></p><p>Euclid soll das Universum erforschen und dafür die bislang größte dreidimensionale Karte des Kosmos erstellen. Nun gibt es einen ersten großen Datensatz.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Südkorea: Google entfernt Koordinaten aus Maps und Earth]]></title>
+        <id>http://heise.de/-11524232</id>
+        <updated>2026-11-13T12:04:00+01:00</updated>
+        <published>2026-11-13T12:04:00+01:00</published>
+        <link href="https://www.heise.de/news/Google-erfuellt-erste-Auflage-fuer-Kartenexport-nach-Suedkorea-11524232.html?seite=all"/>
+        <author>
+            <name>Malte Kirchner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Google hat eine erste Sicherheitsauflage Südkoreas erfüllt und Koordinaten aus Maps und Earth entfernt. Die Navigation könnte bald möglich werden.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Google-erfuellt-erste-Auflage-fuer-Kartenexport-nach-Suedkorea-11524232.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/1/4/7/shutterstock_2414996133-86a83a3b7edec5c2.jpeg" class="webfeedsFeaturedVisual" alt="Das App-Symbol von Google Maps auf einem Smartphone-Bildschirm" /></a></p><p>Google hat eine erste Sicherheitsauflage Südkoreas erfüllt und Koordinaten aus Maps und Earth entfernt. Die Navigation könnte bald möglich werden.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: heise security Webinar: So verteidigt man sich gegen angreifende KI-Agenten]]></title>
+        <id>http://heise.de/-11523778</id>
+        <updated>2026-11-13T12:00:00+01:00</updated>
+        <published>2026-11-13T12:00:00+01:00</published>
+        <link href="https://www.heise.de/news/heise-security-Webinar-So-verteidigt-man-sich-gegen-angreifende-KI-Agenten-11523778.html?seite=all"/>
+        <author>
+            <name>Jürgen Schmidt</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Angriffe mit KI-Agenten sind bald das neue Normal. Erfahren Sie im heise security Webinar, wie Sie Ihre IT gezielt schützen und sich effektiv verteidigen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/heise-security-Webinar-So-verteidigt-man-sich-gegen-angreifende-KI-Agenten-11523778.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/9/1/6/Angreif-Agenten_ticker_1920x1080-c920a44ff6bf7380.png" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Angriffe mit KI-Agenten sind bald das neue Normal. Erfahren Sie im heise security Webinar, wie Sie Ihre IT gezielt schützen und sich effektiv verteidigen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Fernzugriff ohne Terminal-Zwang: Pangolin zieht in den Linux-Tray]]></title>
+        <id>http://heise.de/-11524014</id>
+        <updated>2026-11-13T11:57:00+01:00</updated>
+        <published>2026-11-13T11:57:00+01:00</published>
+        <link href="https://www.heise.de/news/Fernzugriff-ohne-Terminal-Zwang-Pangolin-zieht-in-den-Linux-Tray-11524014.html?seite=all"/>
+        <author>
+            <name>Moritz Förster</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nicht mehr nur per Kommandozeile: Für die Fernzugriffsplattform Pangolin gibt es jetzt einen Linux-Desktop-Client mit Tray-Menü und GUI-Einstellungen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Fernzugriff-ohne-Terminal-Zwang-Pangolin-zieht-in-den-Linux-Tray-11524014.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/0/3/5/pangolin_linux_client-48e68cecc64103ce.png" class="webfeedsFeaturedVisual" alt="Bildschirminhalt von Pangolin Einstellungsfenstern und Menüs." /></a></p><p>Nicht mehr nur per Kommandozeile: Für die Fernzugriffsplattform Pangolin gibt es jetzt einen Linux-Desktop-Client mit Tray-Menü und GUI-Einstellungen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Claude zockt GTA 4 und andere Games: Wie sich der KI-Agent dabei anstellt]]></title>
+        <id>http://heise.de/-11524224</id>
+        <updated>2026-11-13T11:52:00+01:00</updated>
+        <published>2026-11-13T11:52:00+01:00</published>
+        <link href="https://www.heise.de/news/Claude-zockt-GTA-4-und-andere-Games-Wie-sich-der-KI-Agent-dabei-anstellt-11524224.html?seite=all"/>
+        <author>
+            <name>Marvin Fuhrmann</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Wie schlagen sich Agenten wie Claude in einem Videospiel? Das zeigt ein Entwickler, indem er die Künstliche Intelligenz unter anderem GTA 4 spielen lässt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Claude-zockt-GTA-4-und-andere-Games-Wie-sich-der-KI-Agent-dabei-anstellt-11524224.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/1/4/3/shutterstock_2385766815-b55dea531da5cacb.jpeg" class="webfeedsFeaturedVisual" alt="Smartphone mit Rockstar-Logo vor Display mit unscharfem GTA-Schriftzug" /></a></p><p>Wie schlagen sich Agenten wie Claude in einem Videospiel? Das zeigt ein Entwickler, indem er die Künstliche Intelligenz unter anderem GTA 4 spielen lässt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Microsoft-Cloud-Ausfall: E-Mail-Zugriff läuft wieder an]]></title>
+        <id>http://heise.de/-11524008</id>
+        <updated>2026-11-13T11:44:00+01:00</updated>
+        <published>2026-11-13T11:44:00+01:00</published>
+        <link href="https://www.heise.de/news/Microsoft-Cloud-Ausfall-E-Mails-weiterhin-nicht-zugreifbar-11524008.html?seite=all"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der Ausfall der Microsoft-365-Dienste dauert an. Microsoft verteilt Lösungen in der Infrastruktur. Sie scheinen Wirkung zu zeigen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Microsoft-Cloud-Ausfall-E-Mails-weiterhin-nicht-zugreifbar-11524008.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/0/3/2/Microsoft365-e32c754a6e2aa618.jpeg" class="webfeedsFeaturedVisual" alt="Portland,,Or,,Usa,-,Aug,10,,2021:,Premium,Microsoft,365" /></a></p><p>Der Ausfall der Microsoft-365-Dienste dauert an. Microsoft verteilt Lösungen in der Infrastruktur. Sie scheinen Wirkung zu zeigen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Teardown des MacBook Pro mit PROLED-XDR-Display: Teilweise besser reparierbar]]></title>
+        <id>http://heise.de/-11522824</id>
+        <updated>2026-11-13T11:29:00+01:00</updated>
+        <published>2026-11-13T11:29:00+01:00</published>
+        <link href="https://www.heise.de/news/Teardown-des-MacBook-Pro-mit-PROLED-XDR-Display-Teilweise-besser-reparierbar-11522824.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das MacBook Pro mit OLED und Touch stammt von seinem Vorgänger ab, macht aber einiges anders, wie der Teardown von iFixit zeigt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Teardown-des-MacBook-Pro-mit-PROLED-XDR-Display-Teilweise-besser-reparierbar-11522824.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/4/3/3/aufmacher-1794492082648-da0afbbd43a09a84.png" class="webfeedsFeaturedVisual" alt="Das beleuchtete Apple-Logo beim MacBook Pro mit PROLED-XDR-Display" /></a></p><p>Das MacBook Pro mit OLED und Touch stammt von seinem Vorgänger ab, macht aber einiges anders, wie der Teardown von iFixit zeigt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Indische iPhone-Fabrik: Drei Todesfälle bei Lieferanten]]></title>
+        <id>http://heise.de/-11522802</id>
+        <updated>2026-11-13T11:20:00+01:00</updated>
+        <published>2026-11-13T11:20:00+01:00</published>
+        <link href="https://www.heise.de/news/Indische-iPhone-Fabrik-Drei-Todesfaelle-bei-Lieferanten-11522802.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Bei Reparaturen an Wasserfiltern kam es in Hosur zu einem Unglück. Apple prüft, was die Gründe waren. Es ist nicht der erste Vorfall in der iPhone-Fabrik.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Indische-iPhone-Fabrik-Drei-Todesfaelle-bei-Lieferanten-11522802.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/4/2/2/shutterstock_2684136137-2bea385fdf9a35d3.jpeg" class="webfeedsFeaturedVisual" alt="Tata-Logo: Wichtiger fertiger von Apple in Indien" /></a></p><p>Bei Reparaturen an Wasserfiltern kam es in Hosur zu einem Unglück. Apple prüft, was die Gründe waren. Es ist nicht der erste Vorfall in der iPhone-Fabrik.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Gebärdensprache bei Apple TV: Streamingdienst startet neues Feature]]></title>
+        <id>http://heise.de/-11522982</id>
+        <updated>2026-11-13T10:25:00+01:00</updated>
+        <published>2026-11-13T10:25:00+01:00</published>
+        <link href="https://www.heise.de/news/Gebaerdensprache-bei-Apple-TV-Streamingdienst-startet-neues-Feature-11522982.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Apple beginnt mit einem ersten Film einen neuen Service: Inhalte von Apple TV kommen künftig mit zuschaltbaren Gebärden. Los geht's mit „Being Heumann“.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Gebaerdensprache-bei-Apple-TV-Streamingdienst-startet-neues-Feature-11522982.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/5/1/5/aufmacher-1794492878371_effekt_vignette-05bc1fd9d59bf8c1.png" class="webfeedsFeaturedVisual" alt="ASL-Ansicht bei Apple TV" /></a></p><p>Apple beginnt mit einem ersten Film einen neuen Service: Inhalte von Apple TV kommen künftig mit zuschaltbaren Gebärden. Los geht's mit „Being Heumann“.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Neue Supernova in Galaxie NGC 1433 wird noch mehrere Tage lang heller]]></title>
+        <id>http://heise.de/-11523840</id>
+        <updated>2026-11-13T10:04:00+01:00</updated>
+        <published>2026-11-13T10:04:00+01:00</published>
+        <link href="https://www.heise.de/news/Neue-Supernova-in-Galaxie-NGC-1433-wird-noch-mehrere-Tage-lang-heller-11523840.html?seite=all"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[In der Galaxie NGC 1433 im Sternbild Pendeluhr ist ein Stern explodiert und die Explosion wird seit Tagen heller. Erst kommende Woche steht das Maximum an.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Neue-Supernova-in-Galaxie-NGC-1433-wird-noch-mehrere-Tage-lang-heller-11523840.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/9/4/7/noirlab2628d-7839f368fc3a1ae1.jpeg" class="webfeedsFeaturedVisual" alt="Zwei Teleskopaufnahmen einer Spiralgalaxie mit einer markierten Supernova" /></a></p><p>In der Galaxie NGC 1433 im Sternbild Pendeluhr ist ein Stern explodiert und die Explosion wird seit Tagen heller. Erst kommende Woche steht das Maximum an.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Multiagentensysteme entwickeln und in eigene Software integrieren]]></title>
+        <id>http://heise.de/-11503296</id>
+        <updated>2026-11-13T10:00:00+01:00</updated>
+        <published>2026-11-13T10:00:00+01:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-Multiagentensysteme-entwickeln-und-in-eigene-Software-integrieren-11503296.html?seite=all"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Üben Sie direkt am Code, wie Sie aus spezialisierten KI-Agenten ein eigenes Multiagentensystem aufbauen, das komplexe Aufgaben automatisiert erledigen kann.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-Multiagentensysteme-entwickeln-und-in-eigene-Software-integrieren-11503296.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/0/5/2/6/Multiagentensysteme-entwickeln_ticker_1920x1080-d98dcdf4c350bb7c.png" class="webfeedsFeaturedVisual" alt="stilisierte Roboter sieben Mechaniker arbeiten an einem Rennwagen; links oben ein gelber Kreis mit weißer Schrift &quot;iX-Workshop&quot;" /></a></p><p>Üben Sie direkt am Code, wie Sie aus spezialisierten KI-Agenten ein eigenes Multiagentensystem aufbauen, das komplexe Aufgaben automatisiert erledigen kann.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Mercedes stoppt Investitionen in Deutschland und prüft Werksschließungen]]></title>
+        <id>http://heise.de/-11523770</id>
+        <updated>2026-11-13T09:42:00+01:00</updated>
+        <published>2026-11-13T09:42:00+01:00</published>
+        <link href="https://www.heise.de/news/Mercedes-stoppt-Investitionen-in-Deutschland-und-prueft-Werksschliessungen-11523770.html?seite=all"/>
+        <author>
+            <name>Florian Pillau</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ohne Einigung mit Betriebsrat und IG Metall will Mercedes nicht mehr in deutsche Werke investieren. Ein Montage- und ein Powertrain-Werk stehen zur Disposition.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Mercedes-stoppt-Investitionen-in-Deutschland-und-prueft-Werksschliessungen-11523770.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/9/1/2/26C0245_026-ae93f2b5c98683b3.jpeg" class="webfeedsFeaturedVisual" alt="Produktion des Mercedes-Benz GLA im Werk Rastatt" /></a></p><p>Ohne Einigung mit Betriebsrat und IG Metall will Mercedes nicht mehr in deutsche Werke investieren. Ein Montage- und ein Powertrain-Werk stehen zur Disposition.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Hydrogen: Googles effiziente Alternative zu Argon und Carbon]]></title>
+        <id>http://heise.de/-11523818</id>
+        <updated>2026-11-13T09:40:00+01:00</updated>
+        <published>2026-11-13T09:40:00+01:00</published>
+        <link href="https://www.heise.de/news/Gemini-4-Hydrogen-Googles-effiziente-Alternative-zu-Argon-und-Carbon-11523818.html?seite=all"/>
+        <author>
+            <name>Tomislav  Bezmalinović</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Gemini 4 Hydrogen treibt den KI-Modus der Google-Suche an. Unabhängige Benchmarks zeigen je nach Denkstufe große Unterschiede bei Bearbeitungszeit und Kosten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Gemini-4-Hydrogen-Googles-effiziente-Alternative-zu-Argon-und-Carbon-11523818.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/9/3/6/Gemini-4-Hydrogen-dd631dcbdbcc8d32.jpeg" class="webfeedsFeaturedVisual" alt="Google-Grafik zu Gemini 4 Hydrogen: Auf blauem Hintergrund stehen das Gemini-Logo und der Modellname. Rechts ist eine abstrakte, schimmernde Glasform zu sehen." /></a></p><p>Gemini 4 Hydrogen treibt den KI-Modus der Google-Suche an. Unabhängige Benchmarks zeigen je nach Denkstufe große Unterschiede bei Bearbeitungszeit und Kosten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Humble Bundle: Neue Website kommt ohne Zwei-Faktor-Authentifizierung]]></title>
+        <id>http://heise.de/-11523804</id>
+        <updated>2026-11-13T09:31:00+01:00</updated>
+        <published>2026-11-13T09:31:00+01:00</published>
+        <link href="https://www.heise.de/news/Humble-Bundle-Neue-Website-kommt-ohne-Zwei-Faktor-Authentifizierung-11523804.html?seite=all"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nach einem Redesign lässt sich bei Humble Bundle keine Zwei-Faktor-Authentifizierung mehr einrichten. Warum, ist unklar. Nutzer sollten vorsichtig sein.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Humble-Bundle-Neue-Website-kommt-ohne-Zwei-Faktor-Authentifizierung-11523804.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/9/2/9/aufmacher-1794557012586-c186e9557aed3f29.png" class="webfeedsFeaturedVisual" alt="Screenshot der Humble-Website mit Angeboten für Videospiele." /></a></p><p>Nach einem Redesign lässt sich bei Humble Bundle keine Zwei-Faktor-Authentifizierung mehr einrichten. Warum, ist unklar. Nutzer sollten vorsichtig sein.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Windows-Update-Nebenwirkungen und Diensteänderungen]]></title>
+        <id>http://heise.de/-11523744</id>
+        <updated>2026-11-13T09:24:00+01:00</updated>
+        <published>2026-11-13T09:24:00+01:00</published>
+        <link href="https://www.heise.de/news/Windows-Update-Nebenwirkungen-und-Diensteaenderungen-11523744.html?seite=all"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Windows-Updates bereiten Probleme. Außerdem kündigt Microsoft Änderungen an ReFS auf Wechselmedien sowie RD Web Access an.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Windows-Update-Nebenwirkungen-und-Diensteaenderungen-11523744.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/8/9/9/2025-05-14-Collage-Windows-Update-25904fe10fde972c.png" class="webfeedsFeaturedVisual" alt="Zittriges Windows-11-Logo vor Matrix-artigem Code" /></a></p><p>Die Windows-Updates bereiten Probleme. Außerdem kündigt Microsoft Änderungen an ReFS auf Wechselmedien sowie RD Web Access an.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Flexible Gummirotoren könnten für preiswertere Gezeitenkraftwerke sorgen]]></title>
+        <id>http://heise.de/-11523720</id>
+        <updated>2026-11-13T09:22:00+01:00</updated>
+        <published>2026-11-13T09:22:00+01:00</published>
+        <link href="https://www.heise.de/news/Flexible-Gummirotoren-koennten-fuer-preiswertere-Gezeitenkraftwerke-sorgen-11523720.html?seite=all"/>
+        <author>
+            <name>Oliver Bünte</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Gezeitenkraftwerke sind hohen Belastungen ausgesetzt und technisch aufwendig. Flexible Gummirotoren könnten den Aufwand verringern.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Flexible-Gummirotoren-koennten-fuer-preiswertere-Gezeitenkraftwerke-sorgen-11523720.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/8/8/6/Gummirotoren-3945708711e04a4a.jpeg" class="webfeedsFeaturedVisual" alt="Gezeitenturbine mit Gummirotor in Testumgebung." /></a></p><p>Gezeitenkraftwerke sind hohen Belastungen ausgesetzt und technisch aufwendig. Flexible Gummirotoren könnten den Aufwand verringern.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Xbox-Abwärtskompatibilität: 21 weitere Original-Xbox-Spiele laufen auf dem PC]]></title>
+        <id>http://heise.de/-11523764</id>
+        <updated>2026-11-13T09:06:00+01:00</updated>
+        <published>2026-11-13T09:06:00+01:00</published>
+        <link href="https://www.heise.de/news/Xbox-Abwaertskompatibilitaet-21-weitere-Original-Xbox-Spiele-laufen-auf-dem-PC-11523764.html?seite=all"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Microsoft bringt 21 weitere Spiele der ersten Xbox auf Windows-PCs, darunter „Knights of the Old Republic“. Vier Titel bekommen erstmals Achievements.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Xbox-Abwaertskompatibilitaet-21-weitere-Original-Xbox-Spiele-laufen-auf-dem-PC-11523764.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/9/0/9/111226_XBOX-Wire_PCBackCompat-JPG-6d6dbed266e723ed4c62-032fe630885d8fac.jpeg" class="webfeedsFeaturedVisual" alt="Ein Xbox-Logo, Monitore, PCs und schwebende Xbox-Spielhüllen." /></a></p><p>Microsoft bringt 21 weitere Spiele der ersten Xbox auf Windows-PCs, darunter „Knights of the Old Republic“. Vier Titel bekommen erstmals Achievements.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: secIT 2027: Jetzt kostenloses Ticket für vollen IT-Security-Durchblick sichern]]></title>
+        <id>http://heise.de/-11520948</id>
+        <updated>2026-11-13T08:00:00+01:00</updated>
+        <published>2026-11-13T08:00:00+01:00</published>
+        <link href="https://www.heise.de/news/secIT-2027-Jetzt-kostenloses-Ticket-fuer-vollen-IT-Security-Durchblick-sichern-11520948.html?seite=all"/>
+        <author>
+            <name>Dennis Schirrmacher</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Im März 2027 findet die Konferenzmesse secIT in Hannover statt. Bis Jahresende gibt es kostenlose Tickets.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/secIT-2027-Jetzt-kostenloses-Ticket-fuer-vollen-IT-Security-Durchblick-sichern-11520948.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/4/7/3/secit27_ho_ticker_1920x1080-25c4a7a94c79c79c.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Im März 2027 findet die Konferenzmesse secIT in Hannover statt. Bis Jahresende gibt es kostenlose Tickets.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[„FaceStealer“: Ausgeklügelte Angriffsmethode zielt laut FBI auf Open-Source]]></title>
+        <id>http://heise.de/-11523668</id>
+        <updated>2026-11-13T07:48:00+01:00</updated>
+        <published>2026-11-13T07:48:00+01:00</published>
+        <link href="https://www.heise.de/news/FaceStealer-Nordkorea-zielt-laut-FBI-zunehmend-auf-Open-Source-Entwickler-11523668.html?seite=all"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das US-Justizministerium hat eine angeblich nordkoreanische Angriffsmasche vorgestellt und gestört, die sich zunehmend gegen Open-Source-Entwickler richtet. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/FaceStealer-Nordkorea-zielt-laut-FBI-zunehmend-auf-Open-Source-Entwickler-11523668.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/8/6/0/shutterstock_2092751833-7b1655be16cd0bfb.jpeg" class="webfeedsFeaturedVisual" alt="Hände tippen auf der leuchtenden Tastatur eines Laptops." /></a></p><p>Das US-Justizministerium hat eine angeblich nordkoreanische Angriffsmasche vorgestellt und gestört, die sich zunehmend gegen Open-Source-Entwickler richtet. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Deal noch 2026? SpaceX und Tesla verhandeln angeblich intensiv über Fusion]]></title>
+        <id>http://heise.de/-11523662</id>
+        <updated>2026-11-13T06:50:00+01:00</updated>
+        <published>2026-11-13T06:50:00+01:00</published>
+        <link href="https://www.heise.de/news/SpaceX-und-Tesla-verhandeln-angeblich-intensiv-ueber-Fusion-Deal-noch-2026-11523662.html?seite=all"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Elon Musk will seine beiden größten Konzerne fusionieren, und zwar schnell. Das geht aus einem Bericht hervor, der auch die größten Hindernisse benennt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/SpaceX-und-Tesla-verhandeln-angeblich-intensiv-ueber-Fusion-Deal-noch-2026-11523662.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/8/5/7/shutterstock_2718291675-6f59e51414a32984.jpeg" class="webfeedsFeaturedVisual" alt="Reihe von Elektro-Pickups vor einem Gebäude mit Wandgemälde und Baukränen" /></a></p><p>Elon Musk will seine beiden größten Konzerne fusionieren, und zwar schnell. Das geht aus einem Bericht hervor, der auch die größten Hindernisse benennt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Freitag: Störungen bei Microsoft-Diensten, Ukraine-Abwehr von Starlink gebremst]]></title>
+        <id>http://heise.de/-11523646</id>
+        <updated>2026-11-13T06:15:00+01:00</updated>
+        <published>2026-11-13T06:15:00+01:00</published>
+        <link href="https://www.heise.de/news/Freitag-Stoerungen-bei-Microsoft-Diensten-Ukraine-Abwehr-von-Starlink-gebremst-11523646.html?seite=all"/>
+        <author>
+            <name>Frank Schräer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Serverausfälle bei Outlook & Co + Vorwürfe der Ukraine wegen Starlink + Nvidia-Ermittlungen & Jensen-Affären + Angriffe auf Webhoster + Datenschutz-Geschichte
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Freitag-Stoerungen-bei-Microsoft-Diensten-Ukraine-Abwehr-von-Starlink-gebremst-11523646.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/8/4/9/friday-4dda6506d10d0f16.jpeg" class="webfeedsFeaturedVisual" alt="Rechenzentrum in rotem Warnlicht; Freitag: Microsoft-365-Störung, Starlink-Bremse, Nvidia-Untersuchungen, Webhoster-Attacken &amp; Datenschutz-Podcast" /></a></p><p>Serverausfälle bei Outlook & Co + Vorwürfe der Ukraine wegen Starlink + Nvidia-Ermittlungen & Jensen-Affären + Angriffe auf Webhoster + Datenschutz-Geschichte
+</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Auslegungssache 172: Datenschutz-Geschichte(n)]]></title>
+        <id>http://heise.de/-11522077</id>
+        <updated>2026-11-13T06:10:00+01:00</updated>
+        <published>2026-11-13T06:10:00+01:00</published>
+        <link href="https://www.heise.de/hintergrund/Auslegungssache-172-Datenschutz-Geschichte-n-11522077.html?seite=all"/>
+        <author>
+            <name>Holger Bleich</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Woher kommt der Datenschutz, wohin steuert er? Im c’t-Datenschutz-Podcast unternimmt ein Rechtshistoriker mit den Hosts eine Reise durch 2000 Jahre Datenmacht.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/hintergrund/Auslegungssache-172-Datenschutz-Geschichte-n-11522077.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/0/5/3/pas172_teaser-3c6fb78b43a9ac2e.png" class="webfeedsFeaturedVisual" alt="Drei Personen sind bei einer Videokonferenz zu sehen" /></a></p><p>Woher kommt der Datenschutz, wohin steuert er? Im c’t-Datenschutz-Podcast unternimmt ein Rechtshistoriker mit den Hosts eine Reise durch 2000 Jahre Datenmacht.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | Stanley Kubricks „Lolita“ im 4K-Heimkinotest: Filmzensur als Täterschutz]]></title>
+        <id>http://heise.de/-11500488</id>
+        <updated>2026-11-13T06:02:00+01:00</updated>
+        <published>2026-11-13T06:02:00+01:00</published>
+        <link href="https://www.heise.de/tests/Stanley-Kubricks-Lolita-im-4K-Heimkinotest-Filmzensur-als-Taeterschutz-11500488.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Hartmut Gieselmann</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Criterion hat in seiner Complete-Kubrick-Edition erstmals Lolita in 4K veröffentlicht. Wir klären, wie die damalige Zensur die Intention des Romans umdrehte.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/tests/Stanley-Kubricks-Lolita-im-4K-Heimkinotest-Filmzensur-als-Taeterschutz-11500488.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/9/0/9/7/Lolita_Aufmacher-5726c9483a33be33.jpeg" class="webfeedsFeaturedVisual" alt="Lolita" /></a></p><p>Criterion hat in seiner Complete-Kubrick-Edition erstmals Lolita in 4K veröffentlicht. Wir klären, wie die damalige Zensur die Intention des Romans umdrehte.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Berichte über kartellrechtliche Prüfung Nvidias und weitere Affäre des Ex-Chefs]]></title>
+        <id>http://heise.de/-11523636</id>
+        <updated>2026-11-13T05:03:00+01:00</updated>
+        <published>2026-11-13T05:03:00+01:00</published>
+        <link href="https://www.heise.de/news/Berichte-ueber-kartellrechtliche-Pruefung-Nvidias-und-weitere-Affaere-des-Ex-Chefs-11523636.html?seite=all"/>
+        <author>
+            <name>Frank Schräer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ermittlungen des US-Justizministeriums könnten die KI-Branche belasten. Es gab wohl noch eine Liaison des zurückgetretenen Nvidia-CEOs mit einer Mitarbeiterin.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Berichte-ueber-kartellrechtliche-Pruefung-Nvidias-und-weitere-Affaere-des-Ex-Chefs-11523636.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/8/4/4/jensen-huang-nvidia-0e5a3795258af86f.jpeg" class="webfeedsFeaturedVisual" alt="Ein Mann mit grauen Haaren und Brille blickt leicht nach rechts." /></a></p><p>Ermittlungen des US-Justizministeriums könnten die KI-Branche belasten. Es gab wohl noch eine Liaison des zurückgetretenen Nvidia-CEOs mit einer Mitarbeiterin.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Microsoft-365-Störung: Serverausfälle legen Teams, Exchange und Copilot lahm]]></title>
+        <id>http://heise.de/-11523565</id>
+        <updated>2026-11-12T22:01:00+01:00</updated>
+        <published>2026-11-12T22:01:00+01:00</published>
+        <link href="https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html?seite=all"/>
+        <author>
+            <name>Dr. Volker Zota</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/8/0/6/Unbenannt-0709c6fe1582d97f.png" class="webfeedsFeaturedVisual" alt="Statusmeldung von Microsoft" /></a></p><p>Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Erneute Starlink-Bremse behindert ukrainische Drohnenabwehr]]></title>
+        <id>http://heise.de/-11523549</id>
+        <updated>2026-11-12T21:07:00+01:00</updated>
+        <published>2026-11-12T21:07:00+01:00</published>
+        <link href="https://www.heise.de/news/Erneute-Starlink-Bremse-behindert-ukrainische-Drohnenabwehr-11523549.html?seite=all"/>
+        <author>
+            <name>Daniel AJ Sokolov</name>
+        </author>
+        
+        <summary type="html"><![CDATA[SpaceX bremst seine militärische Starlink-Variante Starshield in der Ukraine erneut. Damit scheitert die Abwehr russischer Drohnen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Erneute-Starlink-Bremse-behindert-ukrainische-Drohnenabwehr-11523549.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/7/9/8/shutterstock_2597107603-6de4333e0ce945e2.jpeg" class="webfeedsFeaturedVisual" alt="Ukrainische Flagge, im Vordergrund ein Smartphone mit Starlink-Logo" /></a></p><p>SpaceX bremst seine militärische Starlink-Variante Starshield in der Ukraine erneut. Damit scheitert die Abwehr russischer Drohnen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Der Praxis-Leitfaden für Thread, Zigbee, Z-Wave & Bluetooth]]></title>
+        <id>http://heise.de/-11523324</id>
+        <updated>2026-11-12T20:00:00+01:00</updated>
+        <published>2026-11-12T20:00:00+01:00</published>
+        <link href="https://www.heise.de/bestenlisten/ratgeber/home-assistant-der-praxis-leitfaden-fuer-thread-zigbee-z-wave-und-bluetooth/pkr3zc2?seite=all"/>
+        <summary type="html"><![CDATA[Von der Thread-Konsolidierung bis zur Kanalwahl: Konkrete Praxistipps, Hardware-Empfehlungen und Lösungen für typische Stolperfallen im Alltag.]]></summary>
+        <content type="html"><![CDATA[<p>Von der Thread-Konsolidierung bis zur Kanalwahl: Konkrete Praxistipps, Hardware-Empfehlungen und Lösungen für typische Stolperfallen im Alltag.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[AdSense-Milliardenstrafe: EuGH-Generalanwältin will Freispruch kippen]]></title>
+        <id>http://heise.de/-11523438</id>
+        <updated>2026-11-12T19:41:00+01:00</updated>
+        <published>2026-11-12T19:41:00+01:00</published>
+        <link href="https://www.heise.de/news/AdSense-Milliardenstrafe-EuGH-Generalanwaeltin-will-Freispruch-kippen-11523438.html?seite=all"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Gutachterin Kokott hält das Urteil gegen die EU-Strafe für Google für fehlerhaft. Der Europäische Gerichtshof soll den Fall an die Vorinstanz zurückverweisen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/AdSense-Milliardenstrafe-EuGH-Generalanwaeltin-will-Freispruch-kippen-11523438.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/7/4/2/shutterstock_2111602952-a4dd1789101011df.jpeg" class="webfeedsFeaturedVisual" alt="Ein Richterhammer über dem Google-Schriftzug" /></a></p><p>Gutachterin Kokott hält das Urteil gegen die EU-Strafe für Google für fehlerhaft. Der Europäische Gerichtshof soll den Fall an die Vorinstanz zurückverweisen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Rohstoffe als Druckmittel: Berlin baut globale Lieferketten um]]></title>
+        <id>http://heise.de/-11523462</id>
+        <updated>2026-11-12T18:58:00+01:00</updated>
+        <published>2026-11-12T18:58:00+01:00</published>
+        <link href="https://www.heise.de/news/Rohstoffe-als-Druckmittel-Berlin-baut-globale-Lieferketten-um-11523462.html?seite=all"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Gegen einseitige Abhängigkeiten: Drei Bundesministerien bündeln ihre Kräfte, um die Industrie mit kritischen Materialien wie seltenen Erden stärker abzusichern.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Rohstoffe-als-Druckmittel-Berlin-baut-globale-Lieferketten-um-11523462.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/7/5/4/shutterstock_1805075995-ad7c13d5192be7be.jpeg" class="webfeedsFeaturedVisual" alt="Containerschiff und Verladekräne in einem Hafen bei Nacht" /></a></p><p>Gegen einseitige Abhängigkeiten: Drei Bundesministerien bündeln ihre Kräfte, um die Industrie mit kritischen Materialien wie seltenen Erden stärker abzusichern.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Münch: Erheblichkeitsschwelle für Datenaustausch ist aus der Zeit gefallen]]></title>
+        <id>http://heise.de/-11523346</id>
+        <updated>2026-11-12T18:48:00+01:00</updated>
+        <published>2026-11-12T18:48:00+01:00</published>
+        <link href="https://www.heise.de/news/BKA-Herbsttagung-Kriminalaemter-fordern-mehr-Datenaustausch-gegen-Betrugswellen-11523346.html?seite=all"/>
+        <author>
+            <name>Falk Steiner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das Bundeskriminalamt und seine Mitstreiter leiden unter einem massiv gestiegenen Fallaufkommen – und suchen technologische Lösungen für manche der Probleme.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/BKA-Herbsttagung-Kriminalaemter-fordern-mehr-Datenaustausch-gegen-Betrugswellen-11523346.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/6/9/7/shutterstock_1191163906-d0165b15431721bb.jpeg" class="webfeedsFeaturedVisual" alt="Sondersignalanlage auf einem Fahrzeugdach im Dunkeln" /></a></p><p>Das Bundeskriminalamt und seine Mitstreiter leiden unter einem massiv gestiegenen Fallaufkommen – und suchen technologische Lösungen für manche der Probleme.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | Nvidia ohne Jensen Huang: Wie laufen die Geschäfte weiter?]]></title>
+        <id>http://heise.de/-11523360</id>
+        <updated>2026-11-12T18:30:00+01:00</updated>
+        <published>2026-11-12T18:30:00+01:00</published>
+        <link href="https://www.heise.de/news/Nvidia-ohne-Jensen-Huang-Wie-laufen-die-Geschaefte-weiter-11523360.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Christof Windeck</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nvidia versucht, die Affäre um den zurückgetreten CEO Jensen Huang in den Griff zu bekommen. Wie könnte es nun weitergehen?]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Nvidia-ohne-Jensen-Huang-Wie-laufen-die-Geschaefte-weiter-11523360.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/7/0/4/IMG_4826_DxO-Huang-chh-2024-Taipeh-2ce49d00ebbc4101.jpeg" class="webfeedsFeaturedVisual" alt="Der ehemalige Nvidia-CEO Jensen Huang 2025 in Taipeei" /></a></p><p>Nvidia versucht, die Affäre um den zurückgetreten CEO Jensen Huang in den Griff zu bekommen. Wie könnte es nun weitergehen?</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Googles KI-Brillen starten im Dezember ab 395 US-Dollar]]></title>
+        <id>http://heise.de/-11523374</id>
+        <updated>2026-11-12T18:08:00+01:00</updated>
+        <published>2026-11-12T18:08:00+01:00</published>
+        <link href="https://www.heise.de/news/Googles-KI-Brillen-starten-im-Dezember-ab-395-US-Dollar-11523374.html?seite=all"/>
+        <author>
+            <name>Tomislav  Bezmalinović</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Google und Samsung bringen im Dezember ihre ersten gemeinsamen KI-Brillen auf den Markt. Ein Europastart ist noch nicht angekündigt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Googles-KI-Brillen-starten-im-Dezember-ab-395-US-Dollar-11523374.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/7/1/1/Google-Samsung-KI-Brillen-e5f48a2263193277.jpeg" class="webfeedsFeaturedVisual" alt="Drei Personen tragen unterschiedliche Smart Glasses von Google und Samsung." /></a></p><p>Google und Samsung bringen im Dezember ihre ersten gemeinsamen KI-Brillen auf den Markt. Ein Europastart ist noch nicht angekündigt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[354 Verdächtige gefasst: Europols Schlag gegen Darknet-Marktplätze]]></title>
+        <id>http://heise.de/-11523352</id>
+        <updated>2026-11-12T18:07:00+01:00</updated>
+        <published>2026-11-12T18:07:00+01:00</published>
+        <link href="https://www.heise.de/news/Europol-zerschlaegt-Darknet-Handel-354-Festnahmen-weltweit-11523352.html?seite=all"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ermittler aus 14 Ländern schlagen im Darknet zu: 354 Festnahmen, fast sechs Tonnen Drogen und über 210 Millionen Euro sichergestellt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Europol-zerschlaegt-Darknet-Handel-354-Festnahmen-weltweit-11523352.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/7/0/0/shutterstock_2559673101-a61ba3c778d369e2.jpeg" class="webfeedsFeaturedVisual" alt="Hände in Handschellen auf dem Rücken" /></a></p><p>Ermittler aus 14 Ländern schlagen im Darknet zu: 354 Festnahmen, fast sechs Tonnen Drogen und über 210 Millionen Euro sichergestellt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Gerüchte um Nvidia-Nachfolge: Wer wird CEO?]]></title>
+        <id>http://heise.de/-11523074</id>
+        <updated>2026-11-12T17:56:00+01:00</updated>
+        <published>2026-11-12T17:56:00+01:00</published>
+        <link href="https://www.heise.de/news/Geruechte-um-Nvidia-Nachfolge-Wer-wird-CEO-11523074.html?seite=all"/>
+        <author>
+            <name>Malte Kirchner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nach dem Rücktritt von Nvidia-Chef Jensen Huang wird spekuliert, wer seine Nachfolge antreten könnte. Es gibt ein paar Kandidaten – unter anderem von Apple.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Geruechte-um-Nvidia-Nachfolge-Wer-wird-CEO-11523074.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/5/6/1/heads-e24e45e6f4d69b66.jpeg" class="webfeedsFeaturedVisual" alt="Geischtsporträts von einer Frau und zwei Männern." /></a></p><p>Nach dem Rücktritt von Nvidia-Chef Jensen Huang wird spekuliert, wer seine Nachfolge antreten könnte. Es gibt ein paar Kandidaten – unter anderem von Apple.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Digitale Medienordnung: Länder wollen Big Tech und KI streng regulieren]]></title>
+        <id>http://heise.de/-11523302</id>
+        <updated>2026-11-12T17:28:00+01:00</updated>
+        <published>2026-11-12T17:28:00+01:00</published>
+        <link href="https://www.heise.de/news/Digitale-Medienordnung-Laender-wollen-Big-Tech-und-KI-streng-regulieren-11523302.html?seite=all"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ein Digital-Staatsvertrag soll journalistische Inhalte in Feeds privilegieren, KI-Systeme in die Pflicht nehmen und das Medienkonzentrationsrecht reformieren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Digitale-Medienordnung-Laender-wollen-Big-Tech-und-KI-streng-regulieren-11523302.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/6/7/5/shutterstock_1258390147-c5e3a7e274f0ec4b.jpeg" class="webfeedsFeaturedVisual" alt="Ein Stapel Zeitungen liegt auf der Tastatur eines Laptops." /></a></p><p>Ein Digital-Staatsvertrag soll journalistische Inhalte in Feeds privilegieren, KI-Systeme in die Pflicht nehmen und das Medienkonzentrationsrecht reformieren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Datum offiziell: Anthropic-Aktien ab 19. November im Handel]]></title>
+        <id>http://heise.de/-11522895</id>
+        <updated>2026-11-12T17:16:00+01:00</updated>
+        <published>2026-11-12T17:16:00+01:00</published>
+        <link href="https://www.heise.de/news/Datum-offiziell-Anthropic-Aktien-ab-19-November-im-Handel-11522895.html?seite=all"/>
+        <author>
+            <name>Carolin Riethmüller</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Anthropics Aktien sollen am 19. November in den Handel gehen. Der finale Preis pro Aktie wird einen Tag vorher festgelegt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Datum-offiziell-Anthropic-Aktien-ab-19-November-im-Handel-11522895.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/4/7/0/shutterstock_2663445441-8ad9924503d705da.jpeg" class="webfeedsFeaturedVisual" alt="Anthropic-Schriftzug an einem riesigen Display, vor dem Leute laufen" /></a></p><p>Anthropics Aktien sollen am 19. November in den Handel gehen. Der finale Preis pro Aktie wird einen Tag vorher festgelegt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Simulation: Atombombe würde Starlink & Co. in 15 Tagen außer Gefecht setzen]]></title>
+        <id>http://heise.de/-11521935</id>
+        <updated>2026-11-12T17:07:00+01:00</updated>
+        <published>2026-11-12T17:07:00+01:00</published>
+        <link href="https://www.heise.de/news/Simulation-Atombombe-wuerde-Starlink-Co-in-15-Tagen-ausser-Gefecht-setzen-11521935.html?seite=all"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Dass eine Atombombe im All erheblichen Schaden anrichten kann, war bekannt. Nun zeigt eine Simulation, wie viele Satelliten man außer Gefecht setzen könnte.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Simulation-Atombombe-wuerde-Starlink-Co-in-15-Tagen-ausser-Gefecht-setzen-11521935.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/9/8/2/shutterstock_2594574801-1f79e7c71b4089ae.jpeg" class="webfeedsFeaturedVisual" alt="Abstrakte Lichtstreifen bilden eine gewölbte, planetenähnliche Form" /></a></p><p>Dass eine Atombombe im All erheblichen Schaden anrichten kann, war bekannt. Nun zeigt eine Simulation, wie viele Satelliten man außer Gefecht setzen könnte.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Bereit für GTA 6: Die Checkliste zum Release von Grand Theft Auto VI]]></title>
+        <id>http://heise.de/-11523272</id>
+        <updated>2026-11-12T17:00:00+01:00</updated>
+        <published>2026-11-12T17:00:00+01:00</published>
+        <link href="https://www.heise.de/bestenlisten/ratgeber/bereit-fuer-gta-6-die-checkliste-zum-release-von-grand-theft-auto-vi/3ht03fp?seite=all"/>
+        <summary type="html"><![CDATA[GTA 6 steht in den Startlöchern und Millionen von Spielern warten sehnsüchtig auf den Release. Wir zeigen, was man vor dem Launch des Spiels wissen muss.]]></summary>
+        <content type="html"><![CDATA[<p>GTA 6 steht in den Startlöchern und Millionen von Spielern warten sehnsüchtig auf den Release. Wir zeigen, was man vor dem Launch des Spiels wissen muss.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[htop für die Grafikkarte: GPU Taskman leuchtet den Grafikspeicher aus]]></title>
+        <id>http://heise.de/-11522367</id>
+        <updated>2026-11-12T16:37:00+01:00</updated>
+        <published>2026-11-12T16:37:00+01:00</published>
+        <link href="https://www.heise.de/news/GPU-Taskman-Neuer-Task-Manager-fuer-Grafikkarten-und-KI-11522367.html?seite=all"/>
+        <author>
+            <name>Moritz Förster</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Was belegt gerade den Grafikspeicher? Der quelloffene GPU Taskman zeigt die VRAM-Nutzung pro Prozess und liefert Details zu laufenden LLMs.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/GPU-Taskman-Neuer-Task-Manager-fuer-Grafikkarten-und-KI-11522367.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/1/9/9/gputaskman-9fdc5c19316bcf90.png" class="webfeedsFeaturedVisual" alt="Ein grafisches Systemüberwachungstool für eine NVIDIA GPU mit Prozessliste." /></a></p><p>Was belegt gerade den Grafikspeicher? Der quelloffene GPU Taskman zeigt die VRAM-Nutzung pro Prozess und liefert Details zu laufenden LLMs.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Kritische Sicherheitslücke in Apache2 ermöglicht Codeeinschleusung]]></title>
+        <id>http://heise.de/-11523150</id>
+        <updated>2026-11-12T16:22:00+01:00</updated>
+        <published>2026-11-12T16:22:00+01:00</published>
+        <link href="https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache2-ermoeglicht-Codeeinschleusung-11523150.html?seite=all"/>
+        <author>
+            <name>Dr. Christopher Kunz</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nur Server mit aktiviertem HTTP/2 sind betroffen, Updates sind angeraten. Ein Exploit ist möglich, aber schwierig.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache2-ermoeglicht-Codeeinschleusung-11523150.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/5/9/9/2026-05-06-Apache-http-server-Sicherheit-Problem-c22220a6d6aac7a6.png" class="webfeedsFeaturedVisual" alt="Apache HTTP Server Logo vor Matrix-Regen-Hintergrund" /></a></p><p>Nur Server mit aktiviertem HTTP/2 sind betroffen, Updates sind angeraten. Ein Exploit ist möglich, aber schwierig.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Pager-Panne in Sachsen: Notrufmeldungen offenbar frei zugänglich im Netz]]></title>
+        <id>http://heise.de/-11523154</id>
+        <updated>2026-11-12T16:19:00+01:00</updated>
+        <published>2026-11-12T16:19:00+01:00</published>
+        <link href="https://www.heise.de/news/Pager-Panne-in-Sachsen-Notrufmeldungen-offenbar-frei-zugaenglich-im-Netz-11523154.html?seite=all"/>
+        <author>
+            <name>Jörg Breithut</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ein Notruf geht ein und alle können mitlesen: Offenbar sind heikle Patientendaten von Rettungsdienst- und Feuerwehr-Pagern in Sachsen abgefischt worden.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Pager-Panne-in-Sachsen-Notrufmeldungen-offenbar-frei-zugaenglich-im-Netz-11523154.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/6/0/1/shutterstock_1764354236-ea6c5f63627aac48.jpeg" class="webfeedsFeaturedVisual" alt="Blick auf das Blaulicht eines Einsatzfahrzeugs" /></a></p><p>Ein Notruf geht ein und alle können mitlesen: Offenbar sind heikle Patientendaten von Rettungsdienst- und Feuerwehr-Pagern in Sachsen abgefischt worden.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[OSCAL Foundation löst sich auf]]></title>
+        <id>http://heise.de/-11522880</id>
+        <updated>2026-11-12T16:13:00+01:00</updated>
+        <published>2026-11-12T16:13:00+01:00</published>
+        <link href="https://www.heise.de/news/OSCAL-Foundation-loest-sich-auf-11522880.html?seite=all"/>
+        <author>
+            <name>Christoph Puppe</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Organisation hinter dem Compliance-Format OSCAL gibt nach knapp zwei Jahren auf. Das BSI hat den IT-Grundschutz++ erst 2025 auf dieses Format umgestellt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/OSCAL-Foundation-loest-sich-auf-11522880.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/4/6/2/shutterstock_2668003771-a25c177d7740131c.png" class="webfeedsFeaturedVisual" alt="Ein Schild, das auf dem Hintergrund der Leiterbahnen des Boards in zwei Teile aufgeteilt ist." /></a></p><p>Die Organisation hinter dem Compliance-Format OSCAL gibt nach knapp zwei Jahren auf. Das BSI hat den IT-Grundschutz++ erst 2025 auf dieses Format umgestellt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[United Airlines untersagt KI-Agenten das Buchen von Flügen]]></title>
+        <id>http://heise.de/-11523122</id>
+        <updated>2026-11-12T16:10:00+01:00</updated>
+        <published>2026-11-12T16:10:00+01:00</published>
+        <link href="https://www.heise.de/news/United-Airlines-untersagt-KI-Agenten-das-Buchen-von-Fluegen-11523122.html?seite=all"/>
+        <author>
+            <name>Tomislav  Bezmalinović</name>
+        </author>
+        
+        <summary type="html"><![CDATA[United Airlines untersagt nicht autorisierten KI-Agenten Flugbuchungen. Neben Sicherheitsbedenken spielen auch wirtschaftliche Interessen eine Rolle.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/United-Airlines-untersagt-KI-Agenten-das-Buchen-von-Fluegen-11523122.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/5/8/5/shutterstock_2777331385-2c7de44c158d9046.jpeg" class="webfeedsFeaturedVisual" alt="Mehrere Flugzeuge von United Airlines stehen auf dem Vorfeld eines Flughafens." /></a></p><p>United Airlines untersagt nicht autorisierten KI-Agenten Flugbuchungen. Neben Sicherheitsbedenken spielen auch wirtschaftliche Interessen eine Rolle.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Zoom für Windows: Angreifer können Rechte über das Netz ausweiten]]></title>
+        <id>http://heise.de/-11522500</id>
+        <updated>2026-11-12T15:47:00+01:00</updated>
+        <published>2026-11-12T15:47:00+01:00</published>
+        <link href="https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html?seite=all"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Mit aktualisierten Paketen beseitigt Zoom zwei gravierende Sicherheitslücken in der Windows-Version, die die Rechteausweitung ermöglichen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/2/6/8/shutterstock_1856508466-fd89de9a2dd8c47f.jpeg" class="webfeedsFeaturedVisual" alt="Man mit Kopfhörern vor Laptop mit Videkonferenz" /></a></p><p>Mit aktualisierten Paketen beseitigt Zoom zwei gravierende Sicherheitslücken in der Windows-Version, die die Rechteausweitung ermöglichen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[„Das ist bedauerlich“: Amazon lässt Tausende KI-Agenten programmieren]]></title>
+        <id>http://heise.de/-11523014</id>
+        <updated>2026-11-12T15:46:00+01:00</updated>
+        <published>2026-11-12T15:46:00+01:00</published>
+        <link href="https://www.heise.de/news/Das-ist-bedauerlich-Amazon-laesst-Tausende-KI-Agenten-programmieren-11523014.html?seite=all"/>
+        <author>
+            <name>Jörg Breithut</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Amazon veröffentlicht ein Tool, das komplett von KI-Bots verfasst worden ist. Entwickler sind alles andere als begeistert.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Das-ist-bedauerlich-Amazon-laesst-Tausende-KI-Agenten-programmieren-11523014.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/5/3/1/shutterstock_1626983506-3ee56ded4ab8229c.jpeg" class="webfeedsFeaturedVisual" alt="Beleuchtetes Amazon-Web-Services-Logo als Hängeschild" /></a></p><p>Amazon veröffentlicht ein Tool, das komplett von KI-Bots verfasst worden ist. Entwickler sind alles andere als begeistert.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Angreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen]]></title>
+        <id>http://heise.de/-11522940</id>
+        <updated>2026-11-12T15:24:00+01:00</updated>
+        <published>2026-11-12T15:24:00+01:00</published>
+        <link href="https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11522940.html?seite=all"/>
+        <author>
+            <name>Dennis Schirrmacher</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Um mehrere Sicherheitslücken zu schließen, müssen Admins ihre Installation von Citrix NetScaler ADC und NetScaler Gateway auf den aktuellen Stand bringen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11522940.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/4/9/3/shutterstock_1864518766-9335faf3955876b0.jpeg" class="webfeedsFeaturedVisual" alt="Ein großes Vorhängeschloss vor einer transparenten Weltkugel über einer nächtlichen Großstadt" /></a></p><p>Um mehrere Sicherheitslücken zu schließen, müssen Admins ihre Installation von Citrix NetScaler ADC und NetScaler Gateway auf den aktuellen Stand bringen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Außereheliche Affären: Nvidia-CEO Jensen Huang tritt mit sofortiger Wirkung ab]]></title>
+        <id>http://heise.de/-11522193</id>
+        <updated>2026-11-12T15:08:00+01:00</updated>
+        <published>2026-11-12T15:08:00+01:00</published>
+        <link href="https://www.heise.de/news/Nach-Bekanntwerden-einer-zweiten-Affaere-Nvidia-CEO-Jensen-Huang-abgetreten-11522193.html?seite=all"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nachdem Jensen Huang am Wochenende eine außereheliche Affäre eingestanden hat, konnte er sich noch halten. Über die Zweite ist er nun gestolpert und tritt ab.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Nach-Bekanntwerden-einer-zweiten-Affaere-Nvidia-CEO-Jensen-Huang-abgetreten-11522193.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/1/1/2/shutterstock_2309655121-39bdd36889e1017b.jpeg" class="webfeedsFeaturedVisual" alt="Ein Mann spricht vor einem dunklen Hintergrund mit einer gestikulierenden Hand" /></a></p><p>Nachdem Jensen Huang am Wochenende eine außereheliche Affäre eingestanden hat, konnte er sich noch halten. Über die Zweite ist er nun gestolpert und tritt ab.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[SSD-Lebensdauer gefährdet: AMD-Treiber verursacht hohe Schreiblast]]></title>
+        <id>http://heise.de/-11522544</id>
+        <updated>2026-11-12T15:05:00+01:00</updated>
+        <published>2026-11-12T15:05:00+01:00</published>
+        <link href="https://www.heise.de/news/SSD-Lebensdauer-gefaehrdet-AMD-Treiber-verursacht-hohe-Schreiblast-11522544.html?seite=all"/>
+        <author>
+            <name>Lutz Labs</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ein Fehler in AMDs Adrenalin-Treiber belastet Systemlaufwerke seit Monaten. Ein Tool eines unabhängigen Entwicklers misst den Schaden und umschifft den Bug.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/SSD-Lebensdauer-gefaehrdet-AMD-Treiber-verursacht-hohe-Schreiblast-11522544.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/2/9/0/Adrenalin-neu-8d6b1638e0e57d94.png" class="webfeedsFeaturedVisual" alt="Bunter Hintergrund mit Schriftzug AMD Radeon Software Adrenalin im Vordergrund" /></a></p><p>Ein Fehler in AMDs Adrenalin-Treiber belastet Systemlaufwerke seit Monaten. Ein Tool eines unabhängigen Entwicklers misst den Schaden und umschifft den Bug.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | Apple TV mit vier HomePods als Surround-System fürs Heimkino im Test]]></title>
+        <id>http://heise.de/-11517256</id>
+        <updated>2026-11-12T15:00:00+01:00</updated>
+        <published>2026-11-12T15:00:00+01:00</published>
+        <link href="https://www.heise.de/tests/Apple-TV-mit-vier-HomePods-als-Surround-System-fuers-Heimkino-im-Test-11517256.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Hartmut Gieselmann</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das neue Apple TV soll mit vier HomePods imposanten Surround-Sound liefern. Unser Test entlarvt jedoch Klangschwächen und massive Probleme mit Dolby Atmos.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/tests/Apple-TV-mit-vier-HomePods-als-Surround-System-fuers-Heimkino-im-Test-11517256.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/7/6/1/6/hag.AppleTVSu-2038378759-wod-97e662fc89599209.jpeg" class="webfeedsFeaturedVisual" alt="Apple TV mit 4 HomePods" /></a></p><p>Das neue Apple TV soll mit vier HomePods imposanten Surround-Sound liefern. Unser Test entlarvt jedoch Klangschwächen und massive Probleme mit Dolby Atmos.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | Apple TV 4K 2026 im Test: Mehr Leistung, neue Siri-Funktionen & HomePod-Surround]]></title>
+        <id>http://heise.de/-11522484</id>
+        <updated>2026-11-12T15:00:00+01:00</updated>
+        <published>2026-11-12T15:00:00+01:00</published>
+        <link href="https://www.heise.de/tests/Apple-TV-4K-2026-im-Test-Mehr-Leistung-neue-Siri-Funktionen-HomePod-Surround-11522484.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Holger Zelder</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Apples neue Streaming-Box ist ein Kraftpaket. Wir haben untersucht, ob man den Leistungssprung überhaupt nutzt und welche Features in der EU funktionieren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/tests/Apple-TV-4K-2026-im-Test-Mehr-Leistung-neue-Siri-Funktionen-HomePod-Surround-11522484.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/2/6/0/27068ead12ab50fc7549548f9544b2b131bb82b08b30d1458c002402303f3ec3-db85c644359a1737.jpeg" class="webfeedsFeaturedVisual" alt="Apple TV 4K 2026" /></a></p><p>Apples neue Streaming-Box ist ein Kraftpaket. Wir haben untersucht, ob man den Leistungssprung überhaupt nutzt und welche Features in der EU funktionieren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[ScanRuler: Kostenloses Browser-Tool macht aus 3D-Scans CAD-Modelle]]></title>
+        <id>http://heise.de/-11520920</id>
+        <updated>2026-11-12T14:34:00+01:00</updated>
+        <published>2026-11-12T14:34:00+01:00</published>
+        <link href="https://www.heise.de/news/ScanRuler-Kostenloses-Browser-Tool-macht-aus-3D-Scans-CAD-Modelle-11520920.html?seite=all"/>
+        <author>
+            <name>Carsten Wartmann</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das kostenlose Open-Source-Tool von CNC Kitchen vermisst 3D-Scans, vergleicht sie mit CAD-Daten und baut sie per KI-Agent als parametrisches Modell nach.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/ScanRuler-Kostenloses-Browser-Tool-macht-aus-3D-Scans-CAD-Modelle-11520920.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/4/5/9/Aufimachi_Komplex-e2d317d4bfbf60d7.png" class="webfeedsFeaturedVisual" alt="ScanRuler bei der Arbeit" /></a></p><p>Das kostenlose Open-Source-Tool von CNC Kitchen vermisst 3D-Scans, vergleicht sie mit CAD-Daten und baut sie per KI-Agent als parametrisches Modell nach.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Ein Terminal-Kern für Linux, IDEs und Browser: libghostty 1.0]]></title>
+        <id>http://heise.de/-11521170</id>
+        <updated>2026-11-12T14:34:00+01:00</updated>
+        <published>2026-11-12T14:34:00+01:00</published>
+        <link href="https://www.heise.de/news/Fuer-JetBrains-Neovim-und-KDE-libghostty-1-0-ist-da-11521170.html?seite=all"/>
+        <author>
+            <name>Moritz Förster</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ghosttys Terminal-Kern hat eine stabile C-ABI erreicht: libghostty-vt 1.0 lässt sich nun fest in Distributionen paketieren – JetBrains und Neovim ziehen mit.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Fuer-JetBrains-Neovim-und-KDE-libghostty-1-0-ist-da-11521170.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/5/8/5/ghost-b893452aafd06ba6.jpeg" class="webfeedsFeaturedVisual" alt="Eine Person spielt Saxophon, aus dem Geister mit Binärcode aufsteigen." /></a></p><p>Ghosttys Terminal-Kern hat eine stabile C-ABI erreicht: libghostty-vt 1.0 lässt sich nun fest in Distributionen paketieren – JetBrains und Neovim ziehen mit.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Angriff über MCP-Server: Webhoster Mittwald im Krisenmodus]]></title>
+        <id>http://heise.de/-11522728</id>
+        <updated>2026-11-12T14:14:00+01:00</updated>
+        <published>2026-11-12T14:14:00+01:00</published>
+        <link href="https://www.heise.de/news/Angriff-ueber-MCP-Server-Webhoster-Mittwald-im-Krisenmodus-11522728.html?seite=all"/>
+        <author>
+            <name>Dr. Christopher Kunz</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Webseite des Hosters ist im Notbetrieb, das Blog offline und Administrationsdienste sind für Kunden deaktiviert. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Angriff-ueber-MCP-Server-Webhoster-Mittwald-im-Krisenmodus-11522728.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/3/8/5/shutterstock_2827255519-199c6b4bc64f6c05.jpeg" class="webfeedsFeaturedVisual" alt="Rechenzentrum mit Server-Racks in einem schmalen Gang" /></a></p><p>Die Webseite des Hosters ist im Notbetrieb, das Blog offline und Administrationsdienste sind für Kunden deaktiviert. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Angst vor neuen KI-Chip-Exportkontrollen: China sichert sich Rechenkapazitäten]]></title>
+        <id>http://heise.de/-11522548</id>
+        <updated>2026-11-12T13:55:00+01:00</updated>
+        <published>2026-11-12T13:55:00+01:00</published>
+        <link href="https://www.heise.de/news/Angst-vor-neuen-KI-Chip-Exportkontrollen-China-sichert-sich-Rechenkapazitaeten-11522548.html?seite=all"/>
+        <author>
+            <name>Carolin Riethmüller</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Chinesische KI-Firmen sichern sich wohl gerade verstärkt Rechenkapazitäten außerhalb Chinas, um US-Exportkontrollen zu umgehen. Neue Gesetze drohen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Angst-vor-neuen-KI-Chip-Exportkontrollen-China-sichert-sich-Rechenkapazitaeten-11522548.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/2/9/2/shutterstock_2344284257-43370c96f69602c1.jpeg" class="webfeedsFeaturedVisual" alt="Platine für US- und chinesischer Flagge" /></a></p><p>Chinesische KI-Firmen sichern sich wohl gerade verstärkt Rechenkapazitäten außerhalb Chinas, um US-Exportkontrollen zu umgehen. Neue Gesetze drohen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Neue Geräuscherkennung aktiv: Was Apple Watch 12 und Ultra 4 nun heraushören]]></title>
+        <id>http://heise.de/-11522538</id>
+        <updated>2026-11-12T13:45:00+01:00</updated>
+        <published>2026-11-12T13:45:00+01:00</published>
+        <link href="https://www.heise.de/news/Fuer-Hoerbehinderte-und-laute-Raeume-Apple-Watch-12-und-Ultra-4-erkennen-Geraeusche-11522538.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Im Rahmen von Apples Audio-Intelligence-Features kommt auch eine nützliche Geräuscherkennung auf aktuelle Apple-Uhren. Das kann die neue Funktion.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Fuer-Hoerbehinderte-und-laute-Raeume-Apple-Watch-12-und-Ultra-4-erkennen-Geraeusche-11522538.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/2/8/7/applewatcherkenn-05a6784ba48c3bf1.png" class="webfeedsFeaturedVisual" alt="Geräuscherkennung auf der Apple Watch, hier eine Türklingel" /></a></p><p>Im Rahmen von Apples Audio-Intelligence-Features kommt auch eine nützliche Geräuscherkennung auf aktuelle Apple-Uhren. Das kann die neue Funktion.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Aus HTML und Word mach PDF: PDF-Generator Gotenberg 9 komplett umgebaut]]></title>
+        <id>http://heise.de/-11522021</id>
+        <updated>2026-11-12T13:14:00+01:00</updated>
+        <published>2026-11-12T13:14:00+01:00</published>
+        <link href="https://www.heise.de/news/Aus-HTML-und-Word-mach-PDF-PDF-Generator-Gotenberg-9-komplett-umgebaut-11522021.html?seite=all"/>
+        <author>
+            <name>Moritz Förster</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Gotenberg 9 ersetzt externe PDF-Tools durch die eigene Engine litho, bringt flexible Pipelines und modernisiert die LibreOffice-Anbindung.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Aus-HTML-und-Word-mach-PDF-PDF-Generator-Gotenberg-9-komplett-umgebaut-11522021.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/0/2/5/dokumente-00d58357dc01cad7.png" class="webfeedsFeaturedVisual" alt="Ein Comic-Hintergrund mit schwebenden Papierblättern und verschiedenen Diagrammen" /></a></p><p>Gotenberg 9 ersetzt externe PDF-Tools durch die eigene Engine litho, bringt flexible Pipelines und modernisiert die LibreOffice-Anbindung.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Bericht: Apples neues Steuersparparadies ist Singapur]]></title>
+        <id>http://heise.de/-11520794</id>
+        <updated>2026-11-12T13:07:00+01:00</updated>
+        <published>2026-11-12T13:07:00+01:00</published>
+        <link href="https://www.heise.de/news/Bericht-Apples-neues-Steuersparparadies-ist-Singapur-11520794.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Lange profitierte Apple von niedrigen irischen Steuersätzen. Ein EU-Verfahren beendete das. Nun scheint der Konzern in Südostasien Ersatz gefunden zu haben.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Bericht-Apples-neues-Steuersparparadies-ist-Singapur-11520794.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/4/0/3/Singapur-1097204231a6c01c.jpeg" class="webfeedsFeaturedVisual" alt="Skyline von Singapur" /></a></p><p>Lange profitierte Apple von niedrigen irischen Steuersätzen. Ein EU-Verfahren beendete das. Nun scheint der Konzern in Südostasien Ersatz gefunden zu haben.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise+ | VW ID. Era 5X im ersten Fahrbericht: Der ID. Tiguan für China]]></title>
+        <id>http://heise.de/-11521807</id>
+        <updated>2026-11-12T13:01:00+01:00</updated>
+        <published>2026-11-12T13:01:00+01:00</published>
+        <link href="https://www.heise.de/tests/VW-ID-Era-5X-im-ersten-Fahrbericht-Der-ID-Tiguan-fuer-China-11521807.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <author>
+            <name>Fabian Mechtel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der VW ID. Era 5X ist ein neues Kompakt-SUV für China, das im ersten Fahrbericht mit solider Verarbeitung und Fahrdynamik überzeugt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/tests/VW-ID-Era-5X-im-ersten-Fahrbericht-Der-ID-Tiguan-fuer-China-11521807.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/9/1/7/01-5c01806d5700e3be.jpeg" class="webfeedsFeaturedVisual" alt="VW Era 5X" /></a></p><p>Der VW ID. Era 5X ist ein neues Kompakt-SUV für China, das im ersten Fahrbericht mit solider Verarbeitung und Fahrdynamik überzeugt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Schnellster Ozeandampfer der Geschichte als künstliches Riff versenkt]]></title>
+        <id>http://heise.de/-11522239</id>
+        <updated>2026-11-12T12:45:00+01:00</updated>
+        <published>2026-11-12T12:45:00+01:00</published>
+        <link href="https://www.heise.de/news/Schnellster-Ozeandampfer-der-Geschichte-als-kuenstliches-Riff-versenkt-11522239.html?seite=all"/>
+        <author>
+            <name>Oliver Bünte</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die SS United States hat nach 74 Jahren ihre letzte Ruhestätte gefunden und erfüllt als künstliches Riff auch noch einen guten Zweck.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Schnellster-Ozeandampfer-der-Geschichte-als-kuenstliches-Riff-versenkt-11522239.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/1/3/5/ss_united_states-a52f3cfc3595026d.jpeg" class="webfeedsFeaturedVisual" alt="SS United States auf dem Wasser." /></a></p><p>Die SS United States hat nach 74 Jahren ihre letzte Ruhestätte gefunden und erfüllt als künstliches Riff auch noch einen guten Zweck.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Digitalisierung der Bundesverwaltung: Ministerium erzwingt Standards per Veto]]></title>
+        <id>http://heise.de/-11522215</id>
+        <updated>2026-11-12T12:41:00+01:00</updated>
+        <published>2026-11-12T12:41:00+01:00</published>
+        <link href="https://www.heise.de/news/Bundes-IT-Strengere-Zuegel-fuer-die-digitale-Verwaltung-11522215.html?seite=all"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Bundesregierung erzwingt mit einem neuen Veto-Recht gemeinsame Standards und will Doppelentwicklungen stoppen. Ausnahmen für Medienbrüche bleiben bestehen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Bundes-IT-Strengere-Zuegel-fuer-die-digitale-Verwaltung-11522215.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/1/2/3/shutterstock_2300906097-106525f311707d97.jpeg" class="webfeedsFeaturedVisual" alt="Eine Frau steht vor einer Projekttafel und zeigt auf Datenpunkte." /></a></p><p>Die Bundesregierung erzwingt mit einem neuen Veto-Recht gemeinsame Standards und will Doppelentwicklungen stoppen. Ausnahmen für Medienbrüche bleiben bestehen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[software-architektur.tv: Warum Schichten? Und wie viele?]]></title>
+        <id>http://heise.de/-11522093</id>
+        <updated>2026-11-12T12:32:00+01:00</updated>
+        <published>2026-11-12T12:32:00+01:00</published>
+        <link href="https://www.heise.de/news/software-architektur-tv-Warum-Schichten-Und-wie-viele-11522093.html?seite=all"/>
+        <author>
+            <name>Manuel Masiero</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Schichten versprechen klare Strukturen. Doch wann entkoppeln sie Software wirklich und wann verursachen sie nur zusätzlichen Aufwand?]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/software-architektur-tv-Warum-Schichten-Und-wie-viele-11522093.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/0/6/1/Schichten-99c1d40e9733dc26.png" class="webfeedsFeaturedVisual" alt="Logo von software-architektur.tv" /></a></p><p>Schichten versprechen klare Strukturen. Doch wann entkoppeln sie Software wirklich und wann verursachen sie nur zusätzlichen Aufwand?</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[BaFin verhängt Millionenstrafe gegen Deutsche Bank wegen Postbank-IT-Pannen]]></title>
+        <id>http://heise.de/-11522003</id>
+        <updated>2026-11-12T12:30:00+01:00</updated>
+        <published>2026-11-12T12:30:00+01:00</published>
+        <link href="https://www.heise.de/news/BaFin-verhaengt-Millionenstrafe-gegen-Deutsche-Bank-wegen-Postbank-IT-Pannen-11522003.html?seite=all"/>
+        <author>
+            <name>Axel Kannenberg</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das Projekt der Deutschen Bank zur IT-Migration der Postbank führte 2022 und 2023 zu massiven Kundenbeschwerden. Jetzt gibt es dafür eine Millionenstrafe.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/BaFin-verhaengt-Millionenstrafe-gegen-Deutsche-Bank-wegen-Postbank-IT-Pannen-11522003.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/0/1/6/shutterstock_289585190-25257fc9fd8ad09a.jpeg" class="webfeedsFeaturedVisual" alt="Person tippt auf einer Laptop-Tastatur und hält eine Bankkarte" /></a></p><p>Das Projekt der Deutschen Bank zur IT-Migration der Postbank führte 2022 und 2023 zu massiven Kundenbeschwerden. Jetzt gibt es dafür eine Millionenstrafe.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[iOS, macOS, iPadOS: Calif.io-Exploit setzt auf Brotli-Bug für Jailbreak]]></title>
+        <id>http://heise.de/-11521975</id>
+        <updated>2026-11-12T12:27:00+01:00</updated>
+        <published>2026-11-12T12:27:00+01:00</published>
+        <link href="https://www.heise.de/news/Naechster-Calif-io-Angriff-Jailbreak-nutzt-Brotli-Luecke-auf-Mac-iPhone-und-iPad-11521975.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[WLAN-Captive-Portal öffnen, schon gehackt: Das Sicherheitsteam Calif.io zeigt einen weiteren Exploit. Nutzer sollten schnellstmöglich ihr Apple-Gerät updaten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Naechster-Calif-io-Angriff-Jailbreak-nutzt-Brotli-Luecke-auf-Mac-iPhone-und-iPad-11521975.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/0/0/2/shutterstock_2296731247-b79e66fa1f609d25.jpeg" class="webfeedsFeaturedVisual" alt="iPhone mit noch nicht eingespielten Updates" /></a></p><p>WLAN-Captive-Portal öffnen, schon gehackt: Das Sicherheitsteam Calif.io zeigt einen weiteren Exploit. Nutzer sollten schnellstmöglich ihr Apple-Gerät updaten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Harbor: Neue App von Apple-Tochter Claris für lokale KI-Modelle]]></title>
+        <id>http://heise.de/-11519932</id>
+        <updated>2026-11-12T12:26:00+01:00</updated>
+        <published>2026-11-12T12:26:00+01:00</published>
+        <link href="https://www.heise.de/news/Harbor-Neue-App-von-Apple-Tochter-Claris-fuer-lokale-KI-Modelle-11519932.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Macher hinter FileMaker beschäftigen sich mit lokalen KI-Modellen auf dem Mac. Die App soll auch das Zusammenschalten von Rechnern erleichtern.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Harbor-Neue-App-von-Apple-Tochter-Claris-fuer-lokale-KI-Modelle-11519932.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/8/9/7/1/aufmacher-1794356416881-2bdcfac0d9527671.png" class="webfeedsFeaturedVisual" alt="Mensch an einem Mac Studio" /></a></p><p>Die Macher hinter FileMaker beschäftigen sich mit lokalen KI-Modellen auf dem Mac. Die App soll auch das Zusammenschalten von Rechnern erleichtern.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[US-Firmen verkaufen wohl KI-Trainingsdaten an China]]></title>
+        <id>http://heise.de/-11521993</id>
+        <updated>2026-11-12T12:23:00+01:00</updated>
+        <published>2026-11-12T12:23:00+01:00</published>
+        <link href="https://www.heise.de/news/US-Firmen-verkaufen-wohl-KI-Trainingsdaten-an-China-11521993.html?seite=all"/>
+        <author>
+            <name>Carolin Riethmüller</name>
+        </author>
+        
+        <summary type="html"><![CDATA[US-Firmen, die auch OpenAI und Anthropic beliefern, verkaufen ihre Trainingsdaten und RL-Umgebungen wohl an chinesische KI-Unternehmen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/US-Firmen-verkaufen-wohl-KI-Trainingsdaten-an-China-11521993.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/0/1/1/shutterstock_782150845-da94ee83b60636c6.jpeg" class="webfeedsFeaturedVisual" alt="Umriss eines Gesichts hinter langen Kolonnen aus 1 und 0" /></a></p><p>US-Firmen, die auch OpenAI und Anthropic beliefern, verkaufen ihre Trainingsdaten und RL-Umgebungen wohl an chinesische KI-Unternehmen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[ADAC-Test: Sechs von sieben Nachrüst-LEDs leuchten weiter als Halogenlampen]]></title>
+        <id>http://heise.de/-11521697</id>
+        <updated>2026-11-12T12:16:00+01:00</updated>
+        <published>2026-11-12T12:16:00+01:00</published>
+        <link href="https://www.heise.de/news/ADAC-Test-Sechs-von-sieben-Nachruest-LEDs-leuchten-weiter-als-Halogenlampen-11521697.html?seite=all"/>
+        <author>
+            <name>Florian Pillau</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der ADAC prüft sieben H7-LEDs fürs Abblendlicht: Die meisten leuchten deutlich weiter als Halogen, eine Billiglampe blendet stark und ist nicht zugelassen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/ADAC-Test-Sechs-von-sieben-Nachruest-LEDs-leuchten-weiter-als-Halogenlampen-11521697.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/6/2/Philips_Ultinon-e43adf065fb89ac9.jpeg" class="webfeedsFeaturedVisual" alt="Philips Ultinon" /></a></p><p>Der ADAC prüft sieben H7-LEDs fürs Abblendlicht: Die meisten leuchten deutlich weiter als Halogen, eine Billiglampe blendet stark und ist nicht zugelassen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Monitoring-Software Checkmk: Updates schließen kritische Codeschmuggel-Lecks]]></title>
+        <id>http://heise.de/-11522043</id>
+        <updated>2026-11-12T12:16:00+01:00</updated>
+        <published>2026-11-12T12:16:00+01:00</published>
+        <link href="https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html?seite=all"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Updates für die Monitoring-Software Checkmk schließen kritische Sicherheitslücken. Angreifer können dadurch Schadcode einschleusen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/0/3/6/2025-05-27-Update-Button-Finger-2e130428f5338a5a.jpeg" class="webfeedsFeaturedVisual" alt="Finger tippt auf Update-Button" /></a></p><p>Updates für die Monitoring-Software Checkmk schließen kritische Sicherheitslücken. Angreifer können dadurch Schadcode einschleusen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[KubeCon 2026: Die CNCF will KI-Agenten sicherer und effizienter machen]]></title>
+        <id>http://heise.de/-11521965</id>
+        <updated>2026-11-12T12:13:00+01:00</updated>
+        <published>2026-11-12T12:13:00+01:00</published>
+        <link href="https://www.heise.de/news/KubeCon-2026-Die-CNCF-will-KI-Agenten-sicherer-und-effizienter-machen-11521965.html?seite=all"/>
+        <author>
+            <name>Udo Seidel</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die CNCF hat auf der KubeCon + CloudNativeCon NA mehrere Projekte unter ihre Schirmherrschaft gestellt, um einen sicheren Betrieb von KI-Agenten voranzutreiben.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KubeCon-2026-Die-CNCF-will-KI-Agenten-sicherer-und-effizienter-machen-11521965.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/9/9/7/shutterstock_1495439420-2037e5a94774c369.jpeg" class="webfeedsFeaturedVisual" alt="Gestapelte Container" /></a></p><p>Die CNCF hat auf der KubeCon + CloudNativeCon NA mehrere Projekte unter ihre Schirmherrschaft gestellt, um einen sicheren Betrieb von KI-Agenten voranzutreiben.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[AlphaGenome 2: Googles KI berücksichtigt Zellzustände bei DNA-Prognosen]]></title>
+        <id>http://heise.de/-11522049</id>
+        <updated>2026-11-12T12:09:00+01:00</updated>
+        <published>2026-11-12T12:09:00+01:00</published>
+        <link href="https://www.heise.de/news/AlphaGenome-2-Googles-KI-beruecksichtigt-Zellzustaende-bei-DNA-Prognosen-11522049.html?seite=all"/>
+        <author>
+            <name>Tomislav  Bezmalinović</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Googles neues DNA-Modell sagt voraus, wie genetische Veränderungen in verschiedenen Zelltypen wirken. Das könnte die Suche nach Krankheitsursachen erleichtern.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/AlphaGenome-2-Googles-KI-beruecksichtigt-Zellzustaende-bei-DNA-Prognosen-11522049.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/0/3/9/shutterstock_2141150779-f26127e00a86ba96.jpeg" class="webfeedsFeaturedVisual" alt="Bunte Kette von Aminosäuren" /></a></p><p>Googles neues DNA-Modell sagt voraus, wie genetische Veränderungen in verschiedenen Zelltypen wirken. Das könnte die Suche nach Krankheitsursachen erleichtern.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[97 Prozent wiederhergestellt: Yandex räumt nach Angriffen Datenverluste ein]]></title>
+        <id>http://heise.de/-11521931</id>
+        <updated>2026-11-12T12:07:00+01:00</updated>
+        <published>2026-11-12T12:07:00+01:00</published>
+        <link href="https://www.heise.de/news/Yandex-raeumt-nach-ukrainischen-Drohnenangriffen-Datenverluste-ein-11521931.html?seite=all"/>
+        <author>
+            <name>Martin Holland</name>
+        </author>
+        
+        <summary type="html"><![CDATA[In den vergangenen Wochen konnte Yandex mehr als 97 Prozent der Daten aus angegriffenen Rechenzentren wiederherstellen. Der Rest ist unwiderruflich verloren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Yandex-raeumt-nach-ukrainischen-Drohnenangriffen-Datenverluste-ein-11521931.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/9/8/0/shutterstock_2353324769_effekt_farbkarte-c475adab78538592.jpeg" class="webfeedsFeaturedVisual" alt="Serverracks in einem Rechenzentrum" /></a></p><p>In den vergangenen Wochen konnte Yandex mehr als 97 Prozent der Daten aus angegriffenen Rechenzentren wiederherstellen. Der Rest ist unwiderruflich verloren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: KI-Projekte bauen und betreiben: Noch Vortrag für die Mastering AI einreichen]]></title>
+        <id>http://heise.de/-11518358</id>
+        <updated>2026-11-12T12:00:00+01:00</updated>
+        <published>2026-11-12T12:00:00+01:00</published>
+        <link href="https://www.heise.de/news/KI-Projekte-bauen-und-betreiben-Noch-Vortrag-fuer-die-Mastering-AI-einreichen-11518358.html?seite=all"/>
+        <author>
+            <name>Rainald Menge-Sonnentag</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Am 28. und 29. April 2027 findet die Mastering AI in Karlsruhe statt. Der Call for Proposals für die Konferenz zu KI-Projekten läuft noch bis zum 19. November.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-Projekte-bauen-und-betreiben-Noch-Vortrag-fuer-die-Mastering-AI-einreichen-11518358.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/8/1/7/5/mastering_ai_2027-4b7def398100ee40.jpeg" class="webfeedsFeaturedVisual" alt="Kreise und Linien, M.AI, Mastering AI" /></a></p><p>Am 28. und 29. April 2027 findet die Mastering AI in Karlsruhe statt. Der Call for Proposals für die Konferenz zu KI-Projekten läuft noch bis zum 19. November.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[TeleClinic übernimmt Schweizer Telemedizin-Anbieter Medi24]]></title>
+        <id>http://heise.de/-11521595</id>
+        <updated>2026-11-12T10:57:00+01:00</updated>
+        <published>2026-11-12T10:57:00+01:00</published>
+        <link href="https://www.heise.de/news/TeleClinic-uebernimmt-Schweizer-Telemedizin-Anbieter-Medi24-11521595.html?seite=all"/>
+        <author>
+            <name>Dafina Maloku</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Mit der Übernahme des Schweizer Telemedizin-Anbieters Medi24 unternimmt die deutsche Plattform TeleClinic den ersten Schritt in weitere europäische Länder.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/TeleClinic-uebernimmt-Schweizer-Telemedizin-Anbieter-Medi24-11521595.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/1/1/shutterstock_2373317355-93c7c170c54738f2.jpeg" class="webfeedsFeaturedVisual" alt="Mann hält ein Smartphone. In der Mitte befindet sich ein weißes Kreuz." /></a></p><p>Mit der Übernahme des Schweizer Telemedizin-Anbieters Medi24 unternimmt die deutsche Plattform TeleClinic den ersten Schritt in weitere europäische Länder.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[KI in der Justiz: Hilfe für Richter oder Risiko für den Rechtsstaat?]]></title>
+        <id>http://heise.de/-11519732</id>
+        <updated>2026-11-12T10:36:00+01:00</updated>
+        <published>2026-11-12T10:36:00+01:00</published>
+        <link href="https://www.heise.de/news/KI-in-der-Justiz-Hilfe-fuer-Richter-oder-Risiko-fuer-den-Rechtsstaat-11519732.html?seite=all"/>
+        <author>
+            <name>Marie-Claire Koch</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Darf KI urteilen? Georg Borges zieht Grenzen für die Justiz, Silja Vöneky fordert Regeln für riskante Modelle. Die Verantwortung bleibt beim Menschen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-in-der-Justiz-Hilfe-fuer-Richter-oder-Risiko-fuer-den-Rechtsstaat-11519732.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/8/8/7/0/KIWOche_Vo__neky_Diskussion_01__1_-b8c40f9f11342e6f.png" class="webfeedsFeaturedVisual" alt="Georg Borges, Tobias Keber und Thomas Hentschel sitzen auf einer Bühne vor einer Leinwand." /></a></p><p>Darf KI urteilen? Georg Borges zieht Grenzen für die Justiz, Silja Vöneky fordert Regeln für riskante Modelle. Die Verantwortung bleibt beim Menschen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: Product Owner Day 2026: Jetzt noch Ticket für die Online-Konferenz sichern]]></title>
+        <id>http://heise.de/-11518235</id>
+        <updated>2026-11-12T10:00:00+01:00</updated>
+        <published>2026-11-12T10:00:00+01:00</published>
+        <link href="https://www.heise.de/news/Product-Owner-Day-2026-Jetzt-noch-Ticket-fuer-die-Online-Konferenz-sichern-11518235.html?seite=all"/>
+        <author>
+            <name>Rainald Menge-Sonnentag</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Auf der Online-Konferenz lernen Product Owner, Produktmanagerinnen und Führungskräfte am 19. November Methoden für mehr Wirksamkeit kennen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Product-Owner-Day-2026-Jetzt-noch-Ticket-fuer-die-Online-Konferenz-sichern-11518235.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/8/1/1/3/ia-POD-V-2026-Ticker-Header-16-9-0621a2dac8afb0f9.jpeg" class="webfeedsFeaturedVisual" alt="Zeichnung von Personen und Diagrammen" /></a></p><p>Auf der Online-Konferenz lernen Product Owner, Produktmanagerinnen und Führungskräfte am 19. November Methoden für mehr Wirksamkeit kennen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Nach den Emulatoren nimmt Nintendo jetzt die Switch-Modchips ins Visier]]></title>
+        <id>http://heise.de/-11521755</id>
+        <updated>2026-11-12T09:40:00+01:00</updated>
+        <published>2026-11-12T09:40:00+01:00</published>
+        <link href="https://www.heise.de/news/Picofly-Nintendo-laesst-Firmware-fuer-Switch-Modchip-bei-GitHub-sperren-11521755.html?seite=all"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nintendo hat per DMCA-Antrag die Firmware des Switch-Modchips Picofly bei GitHub sperren lassen. Betroffen ist ein Netzwerk aus 144 Repositories.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Picofly-Nintendo-laesst-Firmware-fuer-Switch-Modchip-bei-GitHub-sperren-11521755.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/9/1/shutterstock_1891264849-01febdec0e031fe9.jpeg" class="webfeedsFeaturedVisual" alt="Eine Konsole mit abnehmbaren Controllern liegt auf einer farbigen Fläche" /></a></p><p>Nintendo hat per DMCA-Antrag die Firmware des Switch-Modchips Picofly bei GitHub sperren lassen. Betroffen ist ein Netzwerk aus 144 Repositories.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Polens Digitalisierungsportal ePUAP nach Cyberangriff offline]]></title>
+        <id>http://heise.de/-11521735</id>
+        <updated>2026-11-12T09:39:00+01:00</updated>
+        <published>2026-11-12T09:39:00+01:00</published>
+        <link href="https://www.heise.de/news/Polens-Digitalisierungsportal-ePUAP-nach-Cyberangriff-offline-11521735.html?seite=all"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Digitalisierungsplattform ePUAP der polnischen Regierung ist derzeit offline. Ursache ist ein Cyberangriff.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Polens-Digitalisierungsportal-ePUAP-nach-Cyberangriff-offline-11521735.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/8/1/shutterstock_2074445740-0f8fa6b436dc547f.jpeg" class="webfeedsFeaturedVisual" alt="Hand auf Tastatur" /></a></p><p>Die Digitalisierungsplattform ePUAP der polnischen Regierung ist derzeit offline. Ursache ist ein Cyberangriff.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Ring Robotics: Kamera-Drohne überwacht Wohnungen autonom im Flug]]></title>
+        <id>http://heise.de/-11521751</id>
+        <updated>2026-11-12T09:37:00+01:00</updated>
+        <published>2026-11-12T09:37:00+01:00</published>
+        <link href="https://www.heise.de/news/Ring-Robotics-Kamera-Drohne-ueberwacht-Wohnungen-autonom-im-Flug-11521751.html?seite=all"/>
+        <author>
+            <name>Oliver Bünte</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ring hat mit Ring Robotics eine neue Robotiksparte geschaffen und zeigt eine autonome Überwachungsdrohne und einen Überwachungsroboter.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Ring-Robotics-Kamera-Drohne-ueberwacht-Wohnungen-autonom-im-Flug-11521751.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/8/9/Ring_Drone-3af887e6aee8b0ce.jpeg" class="webfeedsFeaturedVisual" alt="Die Ring Drone schwebt über ihrer Ladestation." /></a></p><p>Ring hat mit Ring Robotics eine neue Robotiksparte geschaffen und zeigt eine autonome Überwachungsdrohne und einen Überwachungsroboter.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[„The Witcher 3“: KI bearbeitet Geralts polnische Stimme nach Schlaganfall]]></title>
+        <id>http://heise.de/-11521741</id>
+        <updated>2026-11-12T09:32:00+01:00</updated>
+        <published>2026-11-12T09:32:00+01:00</published>
+        <link href="https://www.heise.de/news/The-Witcher-3-KI-bearbeitet-Geralts-polnische-Stimme-nach-Schlaganfall-11521741.html?seite=all"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Geralts polnischer Sprecher Jacek Rozenek klingt nach einem Schlaganfall anders. Für die neue „Witcher 3“-Erweiterung glättet CD Projekt Red das per KI.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/The-Witcher-3-KI-bearbeitet-Geralts-polnische-Stimme-nach-Schlaganfall-11521741.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/8/4/ss_e6adbc6674a2cd6ae9dd59917a1ce3bf8c219e48.1920x1080-8779c94d79e31a29.jpeg" class="webfeedsFeaturedVisual" alt="Screenshot aus Witcherf 3 songs of the Past" /></a></p><p>Geralts polnischer Sprecher Jacek Rozenek klingt nach einem Schlaganfall anders. Für die neue „Witcher 3“-Erweiterung glättet CD Projekt Red das per KI.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Microsoft: Verwirrung und Phishingverdacht durch Umstellung bei E-Rechnungen]]></title>
+        <id>http://heise.de/-11521669</id>
+        <updated>2026-11-12T08:49:00+01:00</updated>
+        <published>2026-11-12T08:49:00+01:00</published>
+        <link href="https://www.heise.de/news/Microsoft-Verwirrung-und-Phishingverdacht-durch-Umstellung-bei-E-Rechnungen-11521669.html?seite=all"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[B2B-Rechnungen müssen ab 2027 elektronisch übermittelt werden. Microsoft hat bereits im November umgestellt, was Kunden verwirrt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Microsoft-Verwirrung-und-Phishingverdacht-durch-Umstellung-bei-E-Rechnungen-11521669.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/4/8/shutterstock_2402135107-e3a94333a24a0d9c.jpeg" class="webfeedsFeaturedVisual" alt="Microsoft-Logo vor mehreren Glasfassaden" /></a></p><p>B2B-Rechnungen müssen ab 2027 elektronisch übermittelt werden. Microsoft hat bereits im November umgestellt, was Kunden verwirrt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Robotik-Firma aus München mit 8,5 Milliarden Dollar bewertet]]></title>
+        <id>http://heise.de/-11521653</id>
+        <updated>2026-11-12T08:06:00+01:00</updated>
+        <published>2026-11-12T08:06:00+01:00</published>
+        <link href="https://www.heise.de/news/Muenchner-Start-up-Agile-Robots-erhaelt-500-Millionen-Dollar-11521653.html?seite=all"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das deutsche Robotikunternehmen Agile Robots ist nach einer neuen Finanzierungsrunde in Höhe von 500 Millionen US-Dollar nun 8,5 Milliarden Dollar wert.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Muenchner-Start-up-Agile-Robots-erhaelt-500-Millionen-Dollar-11521653.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/4/0/Agile_Robots-95ac0e0219e69c19.jpeg" class="webfeedsFeaturedVisual" alt="Humanoider Roboter in Fabrikumgebung." /></a></p><p>Das deutsche Robotikunternehmen Agile Robots ist nach einer neuen Finanzierungsrunde in Höhe von 500 Millionen US-Dollar nun 8,5 Milliarden Dollar wert.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Stoppen und kappen: CrowdStrike stellt KI-Killswitch vor]]></title>
+        <id>http://heise.de/-11521224</id>
+        <updated>2026-11-12T08:00:00+01:00</updated>
+        <published>2026-11-12T08:00:00+01:00</published>
+        <link href="https://www.heise.de/news/Stoppen-und-kappen-CrowdStrike-stellt-KI-Killswitch-vor-11521224.html?seite=all"/>
+        <author>
+            <name>Kornelius Kindermann</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Auf seiner Hausmesse Fal.Con präsentierte CrowdStrike einen Killswitch für seine Falcon-Guardian-Plattform, der wild gewordene Agenten stoppen soll.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Stoppen-und-kappen-CrowdStrike-stellt-KI-Killswitch-vor-11521224.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/6/1/2/shutterstock_1588164769-9a2c1dfd344f61be.jpeg" class="webfeedsFeaturedVisual" alt="&quot;Crowdstrike&quot; Schild am Eingang des Unternehmens" /></a></p><p>Auf seiner Hausmesse Fal.Con präsentierte CrowdStrike einen Killswitch für seine Falcon-Guardian-Plattform, der wild gewordene Agenten stoppen soll.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Angriffe auf Entra ID abwehren ]]></title>
+        <id>http://heise.de/-11503292</id>
+        <updated>2026-11-12T08:00:00+01:00</updated>
+        <published>2026-11-12T08:00:00+01:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11503292.html?seite=all"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11503292.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/0/5/2/4/Angriff-Absicherung-Azure-Ticker-Header-16-9-73995f8357c20b8f.png" class="webfeedsFeaturedVisual" alt="iX-Workshop Entra ID (AAD) gegen Angriffe absichern" /></a></p><p>Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Gasspeicher so leer wie nie vor dem Winter]]></title>
+        <id>http://heise.de/-11521657</id>
+        <updated>2026-11-12T07:48:00+01:00</updated>
+        <published>2026-11-12T07:48:00+01:00</published>
+        <link href="https://www.heise.de/news/Fuellstand-der-Gasspeicher-zum-Winterbeginn-niedrig-wie-nie-11521657.html?seite=all"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Bei der Gasversorgung für den Winter demonstriert die Politik Gottvertrauen: Die Gasspeicher sind so schlecht gefüllt wie nie, Bayern voran.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Fuellstand-der-Gasspeicher-zum-Winterbeginn-niedrig-wie-nie-11521657.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/4/2/shutterstock_2739781307-8da4f6c168e7bf57.jpeg" class="webfeedsFeaturedVisual" alt="Green,Hydrogen,Energy,Storage,Tank,With,Wind,Turbines,And,Solar" /></a></p><p>Bei der Gasversorgung für den Winter demonstriert die Politik Gottvertrauen: Die Gasspeicher sind so schlecht gefüllt wie nie, Bayern voran.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Donnerstag: Nvidia-Chef angeblich kurz vor Abschied, KI-Agent auch von ByteDance]]></title>
+        <id>http://heise.de/-11521643</id>
+        <updated>2026-11-12T06:15:00+01:00</updated>
+        <published>2026-11-12T06:15:00+01:00</published>
+        <link href="https://www.heise.de/news/Donnerstag-Nvidia-Chef-angeblich-kurz-vor-Abschied-KI-Agent-auch-von-ByteDance-11521643.html?seite=all"/>
+        <author>
+            <name>Frank Schräer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Jensen Huangs weitere Affäre + Muse-Agentenkonkurrent aus China + Meta-Millionenstrafe nach Brasilien-Wahl + Unterschiede chinesischer E-Motoren + #heiseshow]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Donnerstag-Nvidia-Chef-angeblich-kurz-vor-Abschied-KI-Agent-auch-von-ByteDance-11521643.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/3/5/thursday-f2e9cbfc2c080de2.jpeg" class="webfeedsFeaturedVisual" alt="Ein Mann mit grauen Haaren und Brille blickt leicht nach rechts." /></a></p><p>Jensen Huangs weitere Affäre + Muse-Agentenkonkurrent aus China + Meta-Millionenstrafe nach Brasilien-Wahl + Unterschiede chinesischer E-Motoren + #heiseshow</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[#heiseshow: Jensen Huang, US-Wahlergebnisse und KI, Wasserstoff]]></title>
+        <id>http://heise.de/-11521417</id>
+        <updated>2026-11-12T06:11:00+01:00</updated>
+        <published>2026-11-12T06:11:00+01:00</published>
+        <link href="https://www.heise.de/news/heiseshow-Jensen-Huang-US-Wahlergebnisse-und-KI-Wasserstoff-11521417.html?seite=all"/>
+        <author>
+            <name>Malte Kirchner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[In der #heiseshow: Nvidia prüft den Fall Jensen Huang, nach den US-Wahlen bebt die Börse und RWE startet in Lingen die größte Wasserstoffturbine Europas]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/heiseshow-Jensen-Huang-US-Wahlergebnisse-und-KI-Wasserstoff-11521417.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/7/2/2/hs_thumb_26kw46-21c924c3cb8bdb03.jpeg" class="webfeedsFeaturedVisual" alt="Jensen Huang und drei Personen stehen vor Texten" /></a></p><p>In der #heiseshow: Nvidia prüft den Fall Jensen Huang, nach den US-Wahlen bebt die Börse und RWE startet in Lingen die größte Wasserstoffturbine Europas</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Nvidia-Chef Jensen Huang nach zweiter Affäre wohl vor dem Ende bei seiner Firma]]></title>
+        <id>http://heise.de/-11521625</id>
+        <updated>2026-11-12T05:02:00+01:00</updated>
+        <published>2026-11-12T05:02:00+01:00</published>
+        <link href="https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html?seite=all"/>
+        <author>
+            <name>Frank Schräer</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Neben der mutmaßlichen Agentin Chinas hatte der Nvidia-CEO offenbar auch eine Affäre mit einer Kollegin. Die Aktie rutscht weiter ab, der Abschied rückt näher.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/2/6/shutterstock_2470895321-a44039cb472a37c7.jpeg" class="webfeedsFeaturedVisual" alt="Nvidia-CEO Jensen Huang während einer Veranstaltung auf der Computex im Juni 2024 in Taipeh. " /></a></p><p>Neben der mutmaßlichen Agentin Chinas hatte der Nvidia-CEO offenbar auch eine Affäre mit einer Kollegin. Die Aktie rutscht weiter ab, der Abschied rückt näher.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Missachtung von Anordnungen im Wahlkampf: Geldstrafe gegen Meta in Brasilien]]></title>
+        <id>http://heise.de/-11521585</id>
+        <updated>2026-11-11T21:52:00+01:00</updated>
+        <published>2026-11-11T21:52:00+01:00</published>
+        <link href="https://www.heise.de/news/Missachtung-von-Anordnungen-im-Wahlkampf-Geldstrafe-gegen-Meta-in-Brasilien-11521585.html?seite=all"/>
+        <author>
+            <name>Andreas Knobloch</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die brasilianische Wahlbehörde bestraft Meta wegen Missachtung von Gerichtsentscheidungen im Wahlkampf, erkennt jedoch keine gezielte Beeinflussung der Wahlen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Missachtung-von-Anordnungen-im-Wahlkampf-Geldstrafe-gegen-Meta-in-Brasilien-11521585.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/0/6/shutterstock_2065638467-9030dd752ecf13f8.jpeg" class="webfeedsFeaturedVisual" alt="" /></a></p><p>Die brasilianische Wahlbehörde bestraft Meta wegen Missachtung von Gerichtsentscheidungen im Wahlkampf, erkennt jedoch keine gezielte Beeinflussung der Wahlen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Bericht: ByteDance plant eigenen KI-Agenten]]></title>
+        <id>http://heise.de/-11521573</id>
+        <updated>2026-11-11T21:20:00+01:00</updated>
+        <published>2026-11-11T21:20:00+01:00</published>
+        <link href="https://www.heise.de/news/Bericht-ByteDance-plant-eigenen-KI-Agenten-11521573.html?seite=all"/>
+        <author>
+            <name>Andreas Knobloch</name>
+        </author>
+        
+        <summary type="html"><![CDATA[ByteDance bereitet einen KI-Agenten nach dem Vorbild von Metas Muse vor und will so den Rückstand im KI-Wettrennen gegenüber US-Unternehmen aufholen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Bericht-ByteDance-plant-eigenen-KI-Agenten-11521573.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/0/0/shutterstock_1338154397-695aa05903a2315f.jpeg" class="webfeedsFeaturedVisual" alt="Eine Lupe auf einer chinesischen Flagge" /></a></p><p>ByteDance bereitet einen KI-Agenten nach dem Vorbild von Metas Muse vor und will so den Rückstand im KI-Wettrennen gegenüber US-Unternehmen aufholen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Teuer muss sie nicht sein: Die beste Akku-Luftpumpe im Test]]></title>
+        <id>http://heise.de/-11521463</id>
+        <updated>2026-11-11T20:00:00+01:00</updated>
+        <published>2026-11-11T20:00:00+01:00</published>
+        <link href="https://www.heise.de/bestenlisten/testsieger/teuer-muss-sie-nicht-sein-die-beste-akku-luftpumpe-im-test-bosch-fuer-nur-54-euro/74ev0yt?seite=all"/>
+        <summary type="html"><![CDATA[Akku-Luftpumpen pumpen Reifen an Fahrrad und Auto auf. Testsieger aus über 30 Tests ist die Bosch Easypump.]]></summary>
+        <content type="html"><![CDATA[<p>Akku-Luftpumpen pumpen Reifen an Fahrrad und Auto auf. Testsieger aus über 30 Tests ist die Bosch Easypump.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[BKA-Herbsttagung: Zwischen Q-Day und Rückschlägen]]></title>
+        <id>http://heise.de/-11521539</id>
+        <updated>2026-11-11T19:26:00+01:00</updated>
+        <published>2026-11-11T19:26:00+01:00</published>
+        <link href="https://www.heise.de/news/BKA-Herbsttagung-Zwischen-Q-Day-und-Rueckschlaegen-11521539.html?seite=all"/>
+        <author>
+            <name>Falk Steiner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Auf der Herbsttagung des Bundeskriminalamts diskutieren Praktiker und Politiker über neue Bedrohungen durch KI und alte Wünsche nach Hackbacks.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/BKA-Herbsttagung-Zwischen-Q-Day-und-Rueckschlaegen-11521539.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/7/8/3/shutterstock_1578154594-21773fc35790f2e6.jpeg" class="webfeedsFeaturedVisual" alt="Polizistin in einer Einsatzleitstelle mit Landkarte auf dem Monitor " /></a></p><p>Auf der Herbsttagung des Bundeskriminalamts diskutieren Praktiker und Politiker über neue Bedrohungen durch KI und alte Wünsche nach Hackbacks.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Serviceroboter Workerbot9 soll künftig Pflegepersonal in der Charité entlasten]]></title>
+        <id>http://heise.de/-11521531</id>
+        <updated>2026-11-11T19:19:00+01:00</updated>
+        <published>2026-11-11T19:19:00+01:00</published>
+        <link href="https://www.heise.de/news/Serviceroboter-Workerbot9-soll-kuenftig-Pflegepersonal-in-der-Charite-entlasten-11521531.html?seite=all"/>
+        <author>
+            <name>Werner Pluta</name>
+        </author>
+        
+        <summary type="html"><![CDATA[In der Charité soll ein Roboter künftig das Pflegepersonal unterstützen: Er soll Materialbestände prüfen und ergänzen sowie Patienten unterhalten.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Serviceroboter-Workerbot9-soll-kuenftig-Pflegepersonal-in-der-Charite-entlasten-11521531.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/7/7/9/hp-4794155814380e6a.jpeg" class="webfeedsFeaturedVisual" alt="Serviceroboter Workerbot9 von Pi4_robotics" /></a></p><p>In der Charité soll ein Roboter künftig das Pflegepersonal unterstützen: Er soll Materialbestände prüfen und ergänzen sowie Patienten unterhalten.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Intelligente Verkehrssysteme: Wenn Autos und Ampeln das Unfallrisiko wegrechnen]]></title>
+        <id>http://heise.de/-11521445</id>
+        <updated>2026-11-11T18:09:00+01:00</updated>
+        <published>2026-11-11T18:09:00+01:00</published>
+        <link href="https://www.heise.de/news/Intelligente-Verkehrssysteme-Wenn-Autos-und-Ampeln-das-Unfallrisiko-wegrechnen-11521445.html?seite=all"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Laut Technikfolgen-Abschätzern können vernetzte Autos und digitale Straßen den Verkehr stärker absichern. Doch ohne strikte Cybersecurity droht das Scheitern.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Intelligente-Verkehrssysteme-Wenn-Autos-und-Ampeln-das-Unfallrisiko-wegrechnen-11521445.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/7/3/6/shutterstock_1662873121-39ba1435d6ed4e4f.jpeg" class="webfeedsFeaturedVisual" alt="Rendering: vernetzter Verkehr" /></a></p><p>Laut Technikfolgen-Abschätzern können vernetzte Autos und digitale Straßen den Verkehr stärker absichern. Doch ohne strikte Cybersecurity droht das Scheitern.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Agent Siri AI: Wo Apples holprige KI-Reise hingeht | Mac & i-Podcast]]></title>
+        <id>http://heise.de/-11521459</id>
+        <updated>2026-11-11T17:55:00+01:00</updated>
+        <published>2026-11-11T17:55:00+01:00</published>
+        <link href="https://www.heise.de/news/Agent-Siri-AI-Wo-Apples-holprige-KI-Reise-hingeht-Mac-i-Podcast-11521459.html?seite=all"/>
+        <author>
+            <name>Leo Becker</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Lange eine Lachnummer, nun auf dem Sprung zum agentischen KI-System für iPhones. Wir analysieren, wo Siri AI aktuell steht und was Apple als Nächstes plant. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Agent-Siri-AI-Wo-Apples-holprige-KI-Reise-hingeht-Mac-i-Podcast-11521459.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/7/4/3/Mac___i_Podcast-168eed2092b66ecd.png" class="webfeedsFeaturedVisual" alt="Agent Siri AI: Wo Apples holprige KI-Reise hingeht  Mac &amp; i-Podcast" /></a></p><p>Lange eine Lachnummer, nun auf dem Sprung zum agentischen KI-System für iPhones. Wir analysieren, wo Siri AI aktuell steht und was Apple als Nächstes plant. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Münchner Rüstungs-KI: Helsing stellt Plattform Clarity vor]]></title>
+        <id>http://heise.de/-11521399</id>
+        <updated>2026-11-11T17:52:00+01:00</updated>
+        <published>2026-11-11T17:52:00+01:00</published>
+        <link href="https://www.heise.de/news/Muenchner-Ruestungs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html?seite=all"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das Münchner Unternehmen Helsing hat mit Clarity eine KI-Plattform für militärische Analysen vorgestellt, die als europäische Alternative zu US-Systemen dient.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Muenchner-Ruestungs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/7/1/3/shutterstock_2738999115-5c4760a011d8f973.jpeg" class="webfeedsFeaturedVisual" alt="Abstrakte Darstellung eines neuronalen Netzes, das binäre Eingaben verarbeitet und in Programmcode überführt." /></a></p><p>Das Münchner Unternehmen Helsing hat mit Clarity eine KI-Plattform für militärische Analysen vorgestellt, die als europäische Alternative zu US-Systemen dient.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Apple Glasses: Zulieferer lüftet unfreiwillig Geheimnis]]></title>
+        <id>http://heise.de/-11521407</id>
+        <updated>2026-11-11T17:29:00+01:00</updated>
+        <published>2026-11-11T17:29:00+01:00</published>
+        <link href="https://www.heise.de/news/Apple-Zulieferer-plaudert-versehentlich-ueber-KI-Brille-aus-11521407.html?seite=all"/>
+        <author>
+            <name>Malte Kirchner</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ein chinesischer Zulieferer hat in einer Investorenkonferenz ungewollt Details zu einer „Apple-KI-Brille“ und Kopfhörern mit Kamera preisgegeben.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Apple-Zulieferer-plaudert-versehentlich-ueber-KI-Brille-aus-11521407.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/7/1/7/shutterstock_1738735427-a2f99bbaa14f4112-b84dbed3006d6360.jpeg" class="webfeedsFeaturedVisual" alt="Eine Brille wird vor ein Apple-Logo gehalten" /></a></p><p>Ein chinesischer Zulieferer hat in einer Investorenkonferenz ungewollt Details zu einer „Apple-KI-Brille“ und Kopfhörern mit Kamera preisgegeben.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Fritzbox 5690 Pro bekommt FritzOS 8.51 – und weniger Speicher]]></title>
+        <id>http://heise.de/-11521196</id>
+        <updated>2026-11-11T17:28:00+01:00</updated>
+        <published>2026-11-11T17:28:00+01:00</published>
+        <link href="https://www.heise.de/news/Fritzbox-5690-Pro-bekommt-FritzOS-8-51-und-weniger-Speicher-11521196.html?seite=all"/>
+        <author>
+            <name>Florian Müssig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Für die Fritzbox 5690 Pro steht die Firmware 8.51 bereit, die einen Adblocker per DNS-Sperrliste mitbringt. Neue Hardwarerevisionen haben weniger RAM und Flash.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Fritzbox-5690-Pro-bekommt-FritzOS-8-51-und-weniger-Speicher-11521196.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/5/9/8/AVM_Lifestyle_2023_0615_FRITZBox_5690_Pro-bed054e800505421.jpeg" class="webfeedsFeaturedVisual" alt="Ein Router steht auf einem Regal neben mehreren Büchern und einer Vase mit Blumen." /></a></p><p>Für die Fritzbox 5690 Pro steht die Firmware 8.51 bereit, die einen Adblocker per DNS-Sperrliste mitbringt. Neue Hardwarerevisionen haben weniger RAM und Flash.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Mozilla veröffentlicht Firefox 160 mit Mini-Windows]]></title>
+        <id>http://heise.de/-11521349</id>
+        <updated>2026-11-11T17:26:00+01:00</updated>
+        <published>2026-11-11T17:26:00+01:00</published>
+        <link href="https://www.heise.de/news/Firefox-160-Mini-Fenster-und-lokale-Spracherkennung-11521349.html?seite=all"/>
+        <author>
+            <name>Moritz Förster</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Mozilla spendiert Firefox 160 anheftbare Mini-Fenster, lokale Spracherkennung per Web Speech API und flexibleres Bild-in-Bild-Tempo.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Firefox-160-Mini-Fenster-und-lokale-Spracherkennung-11521349.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/6/8/8/160_miniwindows-69868cc62901288c.png" class="webfeedsFeaturedVisual" alt="Ein Bildschirmfoto zeigt ein Textdokument, einen Wikipedia-Eintrag und eine Karte." /></a></p><p>Mozilla spendiert Firefox 160 anheftbare Mini-Fenster, lokale Spracherkennung per Web Speech API und flexibleres Bild-in-Bild-Tempo.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Olimex bringt Ethernet an Raspberry Pi Pico und ESP32]]></title>
+        <id>http://heise.de/-11521290</id>
+        <updated>2026-11-11T16:08:00+01:00</updated>
+        <published>2026-11-11T16:08:00+01:00</published>
+        <link href="https://www.heise.de/news/Olimex-bringt-Ethernet-an-Raspberry-Pi-Pico-und-ESP32-11521290.html?seite=all"/>
+        <author>
+            <name>Daniel Schwabe</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Wenn das WLAN am Metallschrank aufgibt, kann ein Netzwerkkabel helfen. Olimex liefert dafür ein Ethernet-Modul für Pico und ESP32.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Olimex-bringt-Ethernet-an-Raspberry-Pi-Pico-und-ESP32-11521290.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/6/5/5/ESP-LAN-75e2d521a6631af6.jpeg" class="webfeedsFeaturedVisual" alt="Eine rote Leiterplatine mit einem silbernen RJ45-Ethernet-Anschluss, einem schwarzen Stiftleisten-Stecker und einem weißen Anschlussstecker." /></a></p><p>Wenn das WLAN am Metallschrank aufgibt, kann ein Netzwerkkabel helfen. Olimex liefert dafür ein Ethernet-Modul für Pico und ESP32.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Arbeitslosigkeit bei ITlern: Höchster Stand seit zehn Jahren]]></title>
+        <id>http://heise.de/-11521166</id>
+        <updated>2026-11-11T16:04:00+01:00</updated>
+        <published>2026-11-11T16:04:00+01:00</published>
+        <link href="https://www.heise.de/news/Arbeitslosigkeit-bei-ITlern-Hoechster-Stand-seit-zehn-Jahren-11521166.html?seite=all"/>
+        <author>
+            <name>Axel Kannenberg</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die Wirtschaft in Deutschland schwächelt – und das lässt auch die Zahl der Arbeitslosen in der IT weiter ansteigen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Arbeitslosigkeit-bei-ITlern-Hoechster-Stand-seit-zehn-Jahren-11521166.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/5/8/3/shutterstock_2103114116-bcdab8aa0eeb0100.jpeg" class="webfeedsFeaturedVisual" alt="Entlassener Angestellter mit Habseligkeiten in Papierbox" /></a></p><p>Die Wirtschaft in Deutschland schwächelt – und das lässt auch die Zahl der Arbeitslosen in der IT weiter ansteigen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Oukitel WP63 im Test: Outdoor-Smartphone mit ausfahrbarem Zigarettenanzünder]]></title>
+        <id>http://heise.de/-11521236</id>
+        <updated>2026-11-11T16:00:00+01:00</updated>
+        <published>2026-11-11T16:00:00+01:00</published>
+        <link href="https://www.heise.de/bestenlisten/testbericht/oukitel-wp63-im-test-outdoor-smartphone-mit-ausfahrbarem-zigarettenanzuender/jld08bg?seite=all"/>
+        <summary type="html"><![CDATA[Jederzeit eine Zündquelle zur Verfügung haben? Das Outdoor-Smartphone Oukitel WP63 macht es dank integriertem Zigarettenanzünder möglich.]]></summary>
+        <content type="html"><![CDATA[<p>Jederzeit eine Zündquelle zur Verfügung haben? Das Outdoor-Smartphone Oukitel WP63 macht es dank integriertem Zigarettenanzünder möglich.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[CERT-EU warnt: Rapide Zunahme der Angriffe mit Agenten-Frameworks wie Artex]]></title>
+        <id>http://heise.de/-11520602</id>
+        <updated>2026-11-11T15:34:00+01:00</updated>
+        <published>2026-11-11T15:34:00+01:00</published>
+        <link href="https://www.heise.de/news/CERT-EU-warnt-Rapide-Zunahme-der-Angriffe-mit-Agenten-Frameworks-wie-Artex-11520602.html?seite=all"/>
+        <author>
+            <name>Jürgen Schmidt</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Autonome KI-Agenten übernehmen komplexe Angriffe weitgehend selbstständig. Experten warnen vor einer neuen Welle automatisierter Attacken.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/CERT-EU-warnt-Rapide-Zunahme-der-Angriffe-mit-Agenten-Frameworks-wie-Artex-11520602.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/3/0/7/shutterstock_2649976727-b846c89e081c9766.jpeg" class="webfeedsFeaturedVisual" alt="Warnsymbol vor digitalem Rauschen" /></a></p><p>Autonome KI-Agenten übernehmen komplexe Angriffe weitgehend selbstständig. Experten warnen vor einer neuen Welle automatisierter Attacken.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[ChatGPT: Unternehmen können dort nun eigene Profile anlegen]]></title>
+        <id>http://heise.de/-11521000</id>
+        <updated>2026-11-11T15:26:00+01:00</updated>
+        <published>2026-11-11T15:26:00+01:00</published>
+        <link href="https://www.heise.de/news/ChatGPT-Unternehmen-koennen-dort-nun-eigene-Profile-anlegen-11521000.html?seite=all"/>
+        <author>
+            <name>Carolin Riethmüller</name>
+        </author>
+        
+        <summary type="html"><![CDATA[OpenAI hat eine neue Funktion für Unternehmen in ChatGPT hinzugefügt. Ähnlich wie bei Google Maps können sie dort nun eigene Informationen hinterlegen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/ChatGPT-Unternehmen-koennen-dort-nun-eigene-Profile-anlegen-11521000.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/4/9/9/shutterstock_2701071735-2d7bc30c89ac1cb9.jpeg" class="webfeedsFeaturedVisual" alt="ChatGPT-Logo auf einem Smartphone" /></a></p><p>OpenAI hat eine neue Funktion für Unternehmen in ChatGPT hinzugefügt. Ähnlich wie bei Google Maps können sie dort nun eigene Informationen hinterlegen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[KI-Update kompakt: Nvidia-Affäre, Coding-Agenten, Gemini 4 Carbon, Muse Ember]]></title>
+        <id>http://heise.de/-11520732</id>
+        <updated>2026-11-11T15:00:00+01:00</updated>
+        <published>2026-11-11T15:00:00+01:00</published>
+        <link href="https://www.heise.de/news/KI-Update-kompakt-Nvidia-Affaere-Coding-Agenten-Gemini-4-Carbon-Muse-Ember-11520732.html?seite=all"/>
+        <author>
+            <name>Isabel Grünewald</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das „KI-Update“ liefert dreimal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen. ]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-Update-kompakt-Nvidia-Affaere-Coding-Agenten-Gemini-4-Carbon-Muse-Ember-11520732.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/3/7/2/heise_Podcasts_KIUpdate_ho_16_9-e43012251deae576.jpeg" class="webfeedsFeaturedVisual" alt="Das Logo von KI Update vor einem blauen Hintergrund mit Audiowellen." /></a></p><p>Das „KI-Update“ liefert dreimal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen. </p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Reboots nach Kernel-Absturz? Kmorph hat da schon mal was vorbereitet]]></title>
+        <id>http://heise.de/-11520660</id>
+        <updated>2026-11-11T14:58:00+01:00</updated>
+        <published>2026-11-11T14:58:00+01:00</published>
+        <link href="https://www.heise.de/news/Kernel-Panic-aber-kein-Neustart-Kmorph-haelt-Linux-am-Laufen-11520660.html?seite=all"/>
+        <author>
+            <name>Moritz Förster</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Mit Kmorph übernimmt ein zweiter Linux-Kernel bei einem Absturz in Sekunden das System. Auch Live-Updates sind damit möglich.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Kernel-Panic-aber-kein-Neustart-Kmorph-haelt-Linux-am-Laufen-11520660.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/3/3/6/linux_tools-83051e93197fd2e2.png" class="webfeedsFeaturedVisual" alt="Ein Tux-Pinguin hält einen großen Schraubenschlüssel." /></a></p><p>Mit Kmorph übernimmt ein zweiter Linux-Kernel bei einem Absturz in Sekunden das System. Auch Live-Updates sind damit möglich.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor]]></title>
+        <id>http://heise.de/-11521062</id>
+        <updated>2026-11-11T14:52:00+01:00</updated>
+        <published>2026-11-11T14:52:00+01:00</published>
+        <link href="https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?seite=all"/>
+        <author>
+            <name>Marvin Fuhrmann</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Mit einem neuen KI-Modell will DeepL menschenähnliche Übersetzungen mit ausdrucksstarken, generierten Stimmen ermöglichen. Welche Techniken Aure dabei nutzt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/5/3/0/shutterstock_2454169227-45403bebdfb884e8.jpeg" class="webfeedsFeaturedVisual" alt="DeepL-Logo auf einem Smartphone" /></a></p><p>Mit einem neuen KI-Modell will DeepL menschenähnliche Übersetzungen mit ausdrucksstarken, generierten Stimmen ermöglichen. Welche Techniken Aure dabei nutzt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[„Merkmale von Glücksspiel“: EU will Lootboxen für Minderjährige verbieten]]></title>
+        <id>http://heise.de/-11520914</id>
+        <updated>2026-11-11T14:25:00+01:00</updated>
+        <published>2026-11-11T14:25:00+01:00</published>
+        <link href="https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?seite=all"/>
+        <author>
+            <name>Daniel Herbig</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Der Entwurf des Digital Fairness Act verbietet Lootboxen und Pay-to-Win für Minderjährige. Der Branchenverband game schlägt Alarm.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/4/5/6/Screenshot_2026-11-11_135150-29a33e63d0d27eae.png" class="webfeedsFeaturedVisual" alt="Screenshot aus dem Ultimate-Team-Modus in EA Sports FC 27" /></a></p><p>Der Entwurf des Digital Fairness Act verbietet Lootboxen und Pay-to-Win für Minderjährige. Der Branchenverband game schlägt Alarm.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[PayPal-Vorgaben: Kartellamt sieht Wettbewerb gefährdet]]></title>
+        <id>http://heise.de/-11520996</id>
+        <updated>2026-11-11T14:06:00+01:00</updated>
+        <published>2026-11-11T14:06:00+01:00</published>
+        <link href="https://www.heise.de/news/PayPal-Vorgaben-Kartellamt-sieht-Wettbewerb-gefaehrdet-11520996.html?seite=all"/>
+        <author>
+            <name>dpa</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Das Bundeskartellamt nimmt die Nutzungsbedingungen von PayPal unter die Lupe. Ein Überblick darüber, was die Wettbewerbshüter kritisieren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/PayPal-Vorgaben-Kartellamt-sieht-Wettbewerb-gefaehrdet-11520996.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/4/9/7/shutterstock_2715537817-198a2a7f793eab16.jpeg" class="webfeedsFeaturedVisual" alt="PayPal-Logo an einem Fenster, im Hintergrund Wolkenkratzer" /></a></p><p>Das Bundeskartellamt nimmt die Nutzungsbedingungen von PayPal unter die Lupe. Ein Überblick darüber, was die Wettbewerbshüter kritisieren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Grok Build: KI-Apps geben Geschäftsgeheimnisse und persönliche Daten preis]]></title>
+        <id>http://heise.de/-11520974</id>
+        <updated>2026-11-11T14:02:00+01:00</updated>
+        <published>2026-11-11T14:02:00+01:00</published>
+        <link href="https://www.heise.de/news/Grok-Build-KI-Apps-geben-Geschaeftsgeheimnisse-und-persoenliche-Daten-preis-11520974.html?seite=all"/>
+        <author>
+            <name>Tomislav  Bezmalinović</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Tausende KI-generierte Grok-Apps waren für Fremde erreichbar. Darunter fanden Sicherheitsforscher vertrauliche Daten von SpaceXSI und anderen Unternehmen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Grok-Build-KI-Apps-geben-Geschaeftsgeheimnisse-und-persoenliche-Daten-preis-11520974.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/4/8/6/shutterstock_2609465349-80d8dc71099d0e28.jpeg" class="webfeedsFeaturedVisual" alt="Das Logo von Grok auf einem Smartphone" /></a></p><p>Tausende KI-generierte Grok-Apps waren für Fremde erreichbar. Darunter fanden Sicherheitsforscher vertrauliche Daten von SpaceXSI und anderen Unternehmen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[heise-Angebot: iX-Workshop: Mehr aus Wazuh herausholen – Detection, Compliance, Response]]></title>
+        <id>http://heise.de/-11503288</id>
+        <updated>2026-11-11T14:00:00+01:00</updated>
+        <published>2026-11-11T14:00:00+01:00</published>
+        <link href="https://www.heise.de/news/iX-Workshop-Mehr-aus-Wazuh-herausholen-Detection-Compliance-Response-11503288.html?seite=all"/>
+        <author>
+            <name>Ilona Krause</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Machen Sie Wazuh zur maßgeschneiderten Detection- und Response-Plattform: eigene Detections entwickeln, Compliance prüfen und Reaktionen automatisieren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iX-Workshop-Mehr-aus-Wazuh-herausholen-Detection-Compliance-Response-11503288.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/0/5/2/2/Wazuh-in-der-Praxis_ticker_1920x1080-9eac5b2f19c71982.png" class="webfeedsFeaturedVisual" alt="Radargerät mit einem roten Punkt auf der Anzeige" /></a></p><p>Machen Sie Wazuh zur maßgeschneiderten Detection- und Response-Plattform: eigene Detections entwickeln, Compliance prüfen und Reaktionen automatisieren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[RWTH-Studie: Chinesische E-Motoren unterscheiden sich vor allem im Detail]]></title>
+        <id>http://heise.de/-11520392</id>
+        <updated>2026-11-11T13:56:00+01:00</updated>
+        <published>2026-11-11T13:56:00+01:00</published>
+        <link href="https://www.heise.de/news/Magnesium-und-duenneres-Blech-Was-in-chinesischen-E-Antrieben-anders-ist-11520392.html?seite=all"/>
+        <author>
+            <name>Florian Pillau</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die RWTH Aachen hat 115 E-Motoren aus Autos vom chinesischen Markt analysiert. Magnesiumgehäuse und dünnere Statorbleche spiegeln den technischen Fortschritt.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Magnesium-und-duenneres-Blech-Was-in-chinesischen-E-Antrieben-anders-ist-11520392.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/2/0/0/Stator_NIO_ET7_RWTH-63dcb3771cace971.jpeg" class="webfeedsFeaturedVisual" alt="Stator aus einem Nio ET7" /></a></p><p>Die RWTH Aachen hat 115 E-Motoren aus Autos vom chinesischen Markt analysiert. Magnesiumgehäuse und dünnere Statorbleche spiegeln den technischen Fortschritt.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Gemini Robotics 2.5 sortiert Metallteile bei Mercedes-Benz mit 96 Prozent Erfolg]]></title>
+        <id>http://heise.de/-11520722</id>
+        <updated>2026-11-11T13:42:00+01:00</updated>
+        <published>2026-11-11T13:42:00+01:00</published>
+        <link href="https://www.heise.de/news/Gemini-Robotics-2-5-sortiert-Metallteile-bei-Mercedes-Benz-mit-96-Prozent-Erfolg-11520722.html?seite=all"/>
+        <author>
+            <name>Carolin Riethmüller</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Google zeigt Gemini Robotics 2.5 – ein KI-Modell, das Roboter geschickter machen soll. Ein Experiment bei Mercedes-Benz erreichte 96 Prozent Erfolgsrate.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Gemini-Robotics-2-5-sortiert-Metallteile-bei-Mercedes-Benz-mit-96-Prozent-Erfolg-11520722.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/3/6/7/Gemini_Robotics_2.5-a577836c73ba68e3.jpeg" class="webfeedsFeaturedVisual" alt="Humanoide Roboter arbeiten an Kisten in einer Fabrikhalle" /></a></p><p>Google zeigt Gemini Robotics 2.5 – ein KI-Modell, das Roboter geschickter machen soll. Ein Experiment bei Mercedes-Benz erreichte 96 Prozent Erfolgsrate.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Omnibus-Gesetze der EU und die Folgen für den Datenschutz]]></title>
+        <id>http://heise.de/-11519738</id>
+        <updated>2026-11-11T13:07:00+01:00</updated>
+        <published>2026-11-11T13:07:00+01:00</published>
+        <link href="https://www.heise.de/news/Omnibus-Gesetze-der-EU-und-die-Folgen-fuer-den-Datenschutz-11519738.html?seite=all"/>
+        <author>
+            <name>Marie-Claire Koch</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die EU will den Datenschutz „vereinfachen“. Auf der KI-Woche zeigte sich: Gute Regeln brauchen Aufsicht, doch es drohen Kürzungen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Omnibus-Gesetze-der-EU-und-die-Folgen-fuer-den-Datenschutz-11519738.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/8/8/7/3/Bendrath-945dcbe29d2f2f9a.png" class="webfeedsFeaturedVisual" alt="Ralf Bendrath" /></a></p><p>Die EU will den Datenschutz „vereinfachen“. Auf der KI-Woche zeigte sich: Gute Regeln brauchen Aufsicht, doch es drohen Kürzungen.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Klima-Zustandsbericht: 2026 sprengt alle Rekorde]]></title>
+        <id>http://heise.de/-11520804</id>
+        <updated>2026-11-11T13:01:00+01:00</updated>
+        <published>2026-11-11T13:01:00+01:00</published>
+        <link href="https://www.heise.de/news/Klima-Zustandsbericht-verzeichnet-Rekordwerte-fuer-2026-11520804.html?seite=all"/>
+        <author>
+            <name>Werner Pluta</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die vergangenen vier Jahre waren die wärmsten überhaupt. UN-Generalsekretär António Guterres spricht von einem neuen Zeitalter der Klimaextreme.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Klima-Zustandsbericht-verzeichnet-Rekordwerte-fuer-2026-11520804.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/4/0/8/000-e48917d45155aec0.jpeg" class="webfeedsFeaturedVisual" alt="Satellitenaufnahme der Erde mit El Niño" /></a></p><p>Die vergangenen vier Jahre waren die wärmsten überhaupt. UN-Generalsekretär António Guterres spricht von einem neuen Zeitalter der Klimaextreme.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Nighthawk r3: IBMs neuer Quantenprozessor mit 520 Qubits]]></title>
+        <id>http://heise.de/-11520831</id>
+        <updated>2026-11-11T13:00:00+01:00</updated>
+        <published>2026-11-11T13:00:00+01:00</published>
+        <link href="https://www.heise.de/news/IBM-praesentiert-naechste-Generation-seines-Quantenchips-Nighthawk-11520831.html?seite=all"/>
+        <author>
+            <name>Dr. Sabrina Patsch</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Auf seiner Quanten-Entwicklerkonferenz stellte IBM seinen neuesten Quantenchip vor. Kommerziell relevante Anwendungen sollen schon sehr bald möglich sein.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/IBM-praesentiert-naechste-Generation-seines-Quantenchips-Nighthawk-11520831.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/8/2/1/3/IBM_Quantum_Nighthawk_r2_angle_in_hand-2d130d16c735fee7.jpeg" class="webfeedsFeaturedVisual" alt="Hände in Handschuhen halten ein Bauteil über eine gelbe Platine" /></a></p><p>Auf seiner Quanten-Entwicklerkonferenz stellte IBM seinen neuesten Quantenchip vor. Kommerziell relevante Anwendungen sollen schon sehr bald möglich sein.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Firefox: Mozilla hebt Datenlimit für kostenloses VPN auf]]></title>
+        <id>http://heise.de/-11520640</id>
+        <updated>2026-11-11T12:58:00+01:00</updated>
+        <published>2026-11-11T12:58:00+01:00</published>
+        <link href="https://www.heise.de/news/Mozilla-hebt-VPN-Datenlimit-in-Firefox-bis-Ende-Januar-auf-11520640.html?seite=all"/>
+        <author>
+            <name>Dirk Knop</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Ab jetzt bis zum 31. Januar 2027 will Mozilla das kostenlose VPN in Firefox ohne Datenlimit anbieten. Nicht zum ersten Mal.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Mozilla-hebt-VPN-Datenlimit-in-Firefox-bis-Ende-Januar-auf-11520640.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/3/2/6/2026-11-11-Mozilla-Blog-Header-16_9-Unlimited-VPN1-1280x720-Aufmacher-81fc6d2cdbe92520.png" class="webfeedsFeaturedVisual" alt="Mozilla-Firefox - Fuchs über BVrwoserfenster mit „VPN“-Schaltfläche" /></a></p><p>Ab jetzt bis zum 31. Januar 2027 will Mozilla das kostenlose VPN in Firefox ohne Datenlimit anbieten. Nicht zum ersten Mal.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Digital Fairness Act: EU-Offensive gegen Abo-Fallen, Lootboxen und Dark Patterns]]></title>
+        <id>http://heise.de/-11520754</id>
+        <updated>2026-11-11T12:45:00+01:00</updated>
+        <published>2026-11-11T12:45:00+01:00</published>
+        <link href="https://www.heise.de/news/Digital-Fairness-Act-EU-Offensive-gegen-Abo-Fallen-Lootboxen-und-Dark-Patterns-11520754.html?seite=all"/>
+        <author>
+            <name>Stefan Krempl</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Die EU-Kommission will Schluss machen mit Psychotricks, manipulativen Designs und Abzocke im Web: Sie plant die härtesten Verbraucherschutzregeln seit Jahren.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Digital-Fairness-Act-EU-Offensive-gegen-Abo-Fallen-Lootboxen-und-Dark-Patterns-11520754.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/3/8/3/shutterstock_1831491850-0cce4e08f129a2ef.jpeg" class="webfeedsFeaturedVisual" alt="Ein Smartphone mit Glücksspielmotiven auf dem Bildschirm, umgeben von Chips und Würfeln." /></a></p><p>Die EU-Kommission will Schluss machen mit Psychotricks, manipulativen Designs und Abzocke im Web: Sie plant die härtesten Verbraucherschutzregeln seit Jahren.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[iPad Air: Wird das nächste Apple-Tablet OLEDisiert?]]></title>
+        <id>http://heise.de/-11519936</id>
+        <updated>2026-11-11T12:39:00+01:00</updated>
+        <published>2026-11-11T12:39:00+01:00</published>
+        <link href="https://www.heise.de/news/iPad-Air-Wird-das-naechste-Apple-Tablet-OLEDisiert-11519936.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Nach iPad Pro und iPad mini arbeitet Apple an weiteren OLED-Tablets. Zunächst soll das Air dran sein. Das steckt vermutlich drin.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/iPad-Air-Wird-das-naechste-Apple-Tablet-OLEDisiert-11519936.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/8/9/7/3/aufmacher-1794356615362_effekt_vignette-2939683bc3934864.png" class="webfeedsFeaturedVisual" alt="Ein iPad Air mit vier weiteren Geräten im Hintergrund" /></a></p><p>Nach iPad Pro und iPad mini arbeitet Apple an weiteren OLED-Tablets. Zunächst soll das Air dran sein. Das steckt vermutlich drin.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Microsoft veröffentlicht .NET 11.0 mit neuen C#- und Blazor-Features]]></title>
+        <id>http://heise.de/-11520160</id>
+        <updated>2026-11-11T12:24:00+01:00</updated>
+        <published>2026-11-11T12:24:00+01:00</published>
+        <link href="https://www.heise.de/news/NET-11-0-steht-bereit-11520160.html?seite=all"/>
+        <author>
+            <name>Dr. Holger Schwichtenberg</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Microsoft hat die produktionsreife Version von .NET 11.0 veröffentlicht. Auch dieses Mal liegen die wichtigsten Neuerungen in C# und im Webframework Blazor.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/NET-11-0-steht-bereit-11520160.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/0/8/5/dotnet-sign-f6c3faf94630d972.jpeg" class="webfeedsFeaturedVisual" alt="Verkehrsschild mit Aufschrift .NET" /></a></p><p>Microsoft hat die produktionsreife Version von .NET 11.0 veröffentlicht. Auch dieses Mal liegen die wichtigsten Neuerungen in C# und im Webframework Blazor.</p>]]></content>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Apple killt eigene Supportforen – ohne Angabe von Gründen]]></title>
+        <id>http://heise.de/-11520644</id>
+        <updated>2026-11-11T12:12:00+01:00</updated>
+        <published>2026-11-11T12:12:00+01:00</published>
+        <link href="https://www.heise.de/news/Apple-killt-eigene-Supportforen-ohne-Angabe-von-Gruenden-11520644.html?seite=all"/>
+        <author>
+            <name>Ben Schwan</name>
+        </author>
+        
+        <summary type="html"><![CDATA[Apple hat eine so merkwürdige wie kritikwürdige Entscheidung getroffen: Der Konzern schließt die seit Jahren vorhandenen Selbsthilfeforen. Warum, bleibt offen.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.heise.de/news/Apple-killt-eigene-Supportforen-ohne-Angabe-von-Gruenden-11520644.html?seite=all"><img src="https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/3/2/8/aufmacher-1794393520427_effekt_glitch-0c0fc8a1b1ff2d73.png" class="webfeedsFeaturedVisual" alt="Glitchendes Logo der Apple Support Community" /></a></p><p>Apple hat eine so merkwürdige wie kritikwürdige Entscheidung getroffen: Der Konzern schließt die seit Jahren vorhandenen Selbsthilfeforen. Warum, bleibt offen.</p>]]></content>
+    </entry>
+</feed>
