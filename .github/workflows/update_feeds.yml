@@ -1,0 +1,42 @@
+# Periodically check for RSS/Atom feeds and modify them as needed
+
+name: Check for updated feeds
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # Run every hour, on the hour. This can be customized to checking as frequently as every 5 minutes.
+    - cron:  '0 */2 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  # This workflow contains a single job called "check_feeds"
+  check_feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the branch
+      - name: checkout
+        uses: actions/checkout@v3
+        with:
+          ref: 'checked_feed'
+        
+      - name: Fetch feed file
+        run: curl "https://www.heise.de/rss/heise-atom.xml" -o heise-atom.xml
+          
+      - name: Fix URLs
+        # modify URL to show all text on one page
+        run: sed -i 's/?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag/?seite=all/g' heise-atom.xml
+
+      - name: setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git add heise-atom.xml
+          git commit --amend --no-edit
+          git push -f origin checked_feed
